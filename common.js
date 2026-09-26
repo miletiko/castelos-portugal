@@ -31,9 +31,7 @@ function setStoredTheme(theme) {
 }
 
 function effectiveTheme() {
-  const stored = getStoredTheme();
-  if (stored) return stored;
-  return window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+  return getStoredTheme() || "light";
 }
 
 function applyTheme(theme) {
@@ -62,41 +60,6 @@ function initThemeToggle() {
   });
 }
 
-// ---------- font choice ----------
-
-function getStoredFont() {
-  try {
-    return localStorage.getItem("castelos:font") || "";
-  } catch {
-    return "";
-  }
-}
-
-function setStoredFont(font) {
-  try {
-    if (font) localStorage.setItem("castelos:font", font);
-    else localStorage.removeItem("castelos:font");
-  } catch {
-    /* ignore */
-  }
-}
-
-function applyFont(font) {
-  if (font) document.documentElement.setAttribute("data-font", font);
-  else document.documentElement.removeAttribute("data-font");
-}
-
-function initFontSelect() {
-  const select = document.getElementById("font-select");
-  if (!select) return;
-  select.value = getStoredFont();
-  select.addEventListener("change", () => {
-    setStoredFont(select.value);
-    applyFont(select.value);
-  });
-}
-
 document.addEventListener("DOMContentLoaded", () => {
   initThemeToggle();
-  initFontSelect();
 });

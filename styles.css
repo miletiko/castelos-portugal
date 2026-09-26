@@ -1,6 +1,6 @@
 :root {
-  --font-display: "Playfair Display", Georgia, serif;
-  --font-body: "Lora", Georgia, serif;
+  --font-display: "Domine", Georgia, serif;
+  --font-body: "Domine", Georgia, serif;
 
   --bg: #f6f0e4;
   --surface: #fffdf8;
@@ -32,62 +32,6 @@
   --visited-dark: #5fae7c;
   --visited-soft-dark: #223529;
   --shadow-sm-dark: 0 1px 3px rgba(0, 0, 0, 0.5);
-}
-
-/* classic font choices, selectable via the header font picker (data-font on <html>) */
-:root[data-font="garamond"] {
-  --font-display: "Cormorant Garamond", Georgia, serif;
-  --font-body: "EB Garamond", Georgia, serif;
-}
-:root[data-font="monumental"] {
-  --font-display: "Cinzel", Georgia, serif;
-  --font-body: "Crimson Text", Georgia, serif;
-}
-:root[data-font="baskerville"] {
-  --font-display: "Libre Baskerville", Georgia, serif;
-  --font-body: "PT Serif", Georgia, serif;
-}
-:root[data-font="spectral"] {
-  --font-display: "Spectral", Georgia, serif;
-  --font-body: "Spectral", Georgia, serif;
-}
-:root[data-font="cardo"] {
-  --font-display: "Cardo", Georgia, serif;
-  --font-body: "Cardo", Georgia, serif;
-}
-:root[data-font="slab"] {
-  --font-display: "Bitter", Georgia, serif;
-  --font-body: "Bitter", Georgia, serif;
-}
-:root[data-font="oldstandard"] {
-  --font-display: "Old Standard TT", Georgia, serif;
-  --font-body: "Old Standard TT", Georgia, serif;
-}
-:root[data-font="merriweather"] {
-  --font-display: "Merriweather", Georgia, serif;
-  --font-body: "Merriweather", Georgia, serif;
-}
-:root[data-font="domine"] {
-  --font-display: "Domine", Georgia, serif;
-  --font-body: "Domine", Georgia, serif;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) {
-    --bg: var(--bg-dark);
-    --surface: var(--surface-dark);
-    --surface-2: var(--surface-2-dark);
-    --border: var(--border-dark);
-    --text: var(--text-dark);
-    --text-muted: var(--text-muted-dark);
-    --accent: var(--accent-dark);
-    --accent-2: var(--accent-2-dark);
-    --accent-soft: var(--accent-soft-dark);
-    --accent-2-soft: var(--accent-2-soft-dark);
-    --visited: var(--visited-dark);
-    --visited-soft: var(--visited-soft-dark);
-    --shadow-sm: var(--shadow-sm-dark);
-  }
 }
 
 :root[data-theme="dark"] {
@@ -192,18 +136,6 @@ a { color: inherit; }
   display: flex;
   align-items: center;
   gap: 0.5rem;
-}
-
-.font-select {
-  padding: 0.4rem 0.55rem;
-  border-radius: var(--radius);
-  border: 1px solid var(--border);
-  background: var(--surface);
-  color: var(--text);
-  font-family: var(--font-body);
-  font-size: 0.78rem;
-  font-weight: 500;
-  cursor: pointer;
 }
 
 .icon-btn {

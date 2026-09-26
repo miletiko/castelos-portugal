@@ -1,6 +1,6 @@
 let ALL_CASTLES = [];
 let markerById = new Map();
-let clusterGroup = null;
+let markerLayer = null;
 let map = null;
 
 const state = {
@@ -62,20 +62,7 @@ function initMap() {
     maxZoom: 19,
   }).addTo(map);
 
-  clusterGroup = L.markerClusterGroup({
-    maxClusterRadius: 42,
-    spiderfyOnMaxZoom: true,
-    iconCreateFunction: (cluster) => {
-      const count = cluster.getChildCount();
-      const visitedCount = cluster.getAllChildMarkers().filter((m) => Storage.isVisited(m.castleId)).length;
-      return L.divIcon({
-        html: `<div style="background:${visitedCount === count ? getCss("--visited") : getCss("--accent")}">${count}</div>`,
-        className: "marker-cluster-custom",
-        iconSize: [34, 34],
-      });
-    },
-  });
-  map.addLayer(clusterGroup);
+  markerLayer = L.layerGroup().addTo(map);
 }
 
 function populateDistrictFilter() {
@@ -101,11 +88,11 @@ function matchesFilters(castle) {
 }
 
 function applyFilters() {
-  clusterGroup.clearLayers();
+  markerLayer.clearLayers();
   const visible = [];
   for (const castle of ALL_CASTLES) {
     if (matchesFilters(castle)) {
-      clusterGroup.addLayer(markerById.get(castle.id));
+      markerLayer.addLayer(markerById.get(castle.id));
       visible.push(castle);
     }
   }
@@ -145,7 +132,7 @@ function renderList(castles) {
       map.flyTo([lat, lng], 13, { duration: 0.6 });
       const marker = markerById.get(id);
       if (marker) {
-        clusterGroup.zoomToShowLayer(marker, () => marker.openTooltip());
+        marker.openTooltip();
       }
     });
   });

@@ -366,22 +366,6 @@ a { color: inherit; }
   font-weight: 700;
 }
 
-.marker-cluster-custom { background: transparent; }
-.marker-cluster-custom div {
-  width: 36px;
-  height: 36px;
-  border-radius: 50%;
-  color: #fff;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-family: var(--font-display);
-  font-weight: 700;
-  font-size: 0.78rem;
-  border: 3px solid var(--surface);
-  box-shadow: var(--shadow-sm);
-}
-
 .leaflet-control-zoom {
   border: none !important;
   box-shadow: var(--shadow-sm) !important;

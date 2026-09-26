@@ -179,6 +179,8 @@ async function init() {
     applyFilters();
   });
 
+  window.addEventListener("theme-changed", refreshMarkerStyles);
+
   window.addEventListener("storage", (e) => {
     if (e.key === "castelos:visited") {
       refreshMarkerStyles();

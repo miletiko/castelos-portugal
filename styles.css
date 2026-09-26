@@ -1,6 +1,6 @@
 :root {
-  --font-display: "Sora", "Inter", -apple-system, "Segoe UI", sans-serif;
-  --font-body: "Inter", -apple-system, "Segoe UI", sans-serif;
+  --font-display: "Playfair Display", Georgia, serif;
+  --font-body: "Lora", Georgia, serif;
 
   --bg: #f6f0e4;
   --surface: #fffdf8;
@@ -34,14 +34,42 @@
   --shadow-sm-dark: 0 1px 3px rgba(0, 0, 0, 0.5);
 }
 
-/* font choices, selectable via the header font picker (data-font on <html>) */
-:root[data-font="classic"] {
-  --font-display: "Playfair Display", Georgia, serif;
-  --font-body: "Lora", Georgia, serif;
+/* classic font choices, selectable via the header font picker (data-font on <html>) */
+:root[data-font="garamond"] {
+  --font-display: "Cormorant Garamond", Georgia, serif;
+  --font-body: "EB Garamond", Georgia, serif;
 }
-:root[data-font="direct"] {
-  --font-display: "Space Grotesk", -apple-system, "Segoe UI", sans-serif;
-  --font-body: "Work Sans", -apple-system, "Segoe UI", sans-serif;
+:root[data-font="monumental"] {
+  --font-display: "Cinzel", Georgia, serif;
+  --font-body: "Crimson Text", Georgia, serif;
+}
+:root[data-font="baskerville"] {
+  --font-display: "Libre Baskerville", Georgia, serif;
+  --font-body: "PT Serif", Georgia, serif;
+}
+:root[data-font="spectral"] {
+  --font-display: "Spectral", Georgia, serif;
+  --font-body: "Spectral", Georgia, serif;
+}
+:root[data-font="cardo"] {
+  --font-display: "Cardo", Georgia, serif;
+  --font-body: "Cardo", Georgia, serif;
+}
+:root[data-font="slab"] {
+  --font-display: "Bitter", Georgia, serif;
+  --font-body: "Bitter", Georgia, serif;
+}
+:root[data-font="oldstandard"] {
+  --font-display: "Old Standard TT", Georgia, serif;
+  --font-body: "Old Standard TT", Georgia, serif;
+}
+:root[data-font="merriweather"] {
+  --font-display: "Merriweather", Georgia, serif;
+  --font-body: "Merriweather", Georgia, serif;
+}
+:root[data-font="domine"] {
+  --font-display: "Domine", Georgia, serif;
+  --font-body: "Domine", Georgia, serif;
 }
 
 @media (prefers-color-scheme: dark) {

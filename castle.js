@@ -25,11 +25,28 @@ function renderVisitButton(castle) {
   `;
 }
 
-function renderHero(castle) {
-  if (castle.image) {
-    return `<div class="hero"><img src="${castle.image}" alt="${escapeHtml(castle.name)}" loading="lazy" /></div>`;
+// Tries the castle's own local photo first (images/<slug>/cover.jpg), falls
+// back to the Wikipedia image, and finally to a placeholder icon.
+window.__heroImgError = function (img) {
+  const fallback = img.dataset.fallback;
+  if (fallback && img.src !== fallback) {
+    img.onerror = () => {
+      img.parentElement.outerHTML = '<div class="hero"><div class="hero-placeholder">🏰</div></div>';
+    };
+    img.src = fallback;
+  } else {
+    img.parentElement.outerHTML = '<div class="hero"><div class="hero-placeholder">🏰</div></div>';
   }
-  return `<div class="hero"><div class="hero-placeholder">🏰</div></div>`;
+};
+
+function renderHero(castle) {
+  const localSrc = `images/${castle.imageDir}/cover.jpg`;
+  const fallback = castle.image || "";
+  return `
+    <div class="hero">
+      <img src="${localSrc}" data-fallback="${escapeHtml(fallback)}" alt="${escapeHtml(castle.name)}" loading="lazy" onerror="window.__heroImgError(this)" />
+    </div>
+  `;
 }
 
 function renderInfoGrid(castle) {
@@ -51,11 +68,14 @@ function renderInfoGrid(castle) {
         )
         .join("")}
     </div>
-    ${
-      castle.wikipedia
-        ? `<a class="wiki-link" href="${castle.wikipedia}" target="_blank" rel="noopener">📖 Ler mais na Wikipédia →</a>`
-        : ""
-    }
+    <div class="link-row">
+      <a class="wiki-link" href="https://www.google.com/maps/dir/?api=1&destination=${castle.lat},${castle.lng}" target="_blank" rel="noopener">📍 Levar-me até aqui →</a>
+      ${
+        castle.wikipedia
+          ? `<a class="wiki-link" href="${castle.wikipedia}" target="_blank" rel="noopener">📖 Ler mais na Wikipédia →</a>`
+          : ""
+      }
+    </div>
   `;
 }
 

@@ -569,11 +569,17 @@ a { color: inherit; }
   font-weight: 700;
 }
 
+.link-row {
+  display: flex;
+  gap: 0.6rem;
+  flex-wrap: wrap;
+  margin-top: 0.9rem;
+}
+
 .wiki-link {
   display: inline-flex;
   align-items: center;
   gap: 0.4rem;
-  margin-top: 0.9rem;
   font-family: var(--font-body);
   font-size: 0.9rem;
   color: var(--accent);

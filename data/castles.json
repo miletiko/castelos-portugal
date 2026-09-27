@@ -12,7 +12,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_Velho_do_Degebe",
     "summary": "Povoado fortificado da 2.ª Idade do Ferro em Reguengos de Monsaraz, Évora, Portugal",
     "extract": "O Castelo Velho do Degebe é um sítio arqueológico situado na freguesia e concelho de Reguengos de Monsaraz, no distrito de Évora, em pleno Alentejo. Ergue-se sobre um esporão rochoso à margem do rio Degebe, afluente do Guadiana, e constitui um testemunho da ocupação proto-histórica da região durante a Segunda Idade do Ferro.\nMais precisamente, o povoado situa-se na Herdade de Carneirizes, a pouco mais de 8 km de Reguengos de Monsaraz. Apesar do nome 'castelo', trata-se na verdade de um povoado fortificado pré-romano: um aglomerado protegido por uma muralha construída em pedra seca, que aproveita também a escarpa natural sobranceira ao rio como elemento defensivo adicional. É classificado como um aglomerado proto-urbano da Idade do Ferro.\nO nome do local tem uma origem curiosa e muito mais antiga do que a própria designação pode sugerir: já em 1267, a carta de doação da Herdade do Esporão a D. João Aboim e à sua mulher referia a existência de uma fortificação chamada 'Castelo Velho do Degebe' - prova de que, já na Idade Média, as ruínas do povoado da Idade do Ferro eram conhecidas por esse nome.\nDo ponto de vista do estudo arqueológico, o sítio manteve-se durante muito tempo pouco explorado. Foi apenas em 1972 que José Pires Gonçalves, delegado do concelho de Reguengos de Monsaraz do Ministério da Educação, pediu autorização para realizar uma intervenção arqueológica no local com alguns dos seus alunos. Ainda assim, o sítio nunca foi alvo de uma intervenção arqueológica alargada, pelo que não é possível determinar com segurança tudo o que ainda poderá subsistir de mais relevante sob o solo.\nPela sua importância histórica, o povoado goza de proteção legal: está classificado como Imóvel de Interesse Público, através do Decreto n.º 41 191, publicado no Diário do Governo n.º 162, de 18 de julho de 1957.\nHoje em dia, o Castelo Velho do Degebe integra o rico património arqueológico do concelho de Reguengos de Monsaraz - território conhecido sobretudo pelo seu núcleo megalítico (menires e antas) - e testemunha uma outra camada, mais tardia, da longa história de ocupação humana desta paisagem alentejana banhada pelo Guadiana e seus afluentes.",
-    "imageDir": "castelo-velho-do-degebe"
+    "imageDir": "castelo-velho-do-degebe",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049729",
@@ -27,7 +29,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_da_Guarda",
     "summary": "castelo medieval na Guarda",
     "extract": "O Castelo da Guarda localiza-se na cidade e município da Guarda, distrito do mesmo nome, em Portugal.\nEm posição dominante sobre a cidade mais alta do país, ergue-se a 1.056,3 metros do nível do mar. Apesar de muito descaracterizado pelas intervenções particularmente a partir do século XIX, os troços remanescentes de seus antigos muros ainda definem, em alguns trechos, os limites urbanos.\nO Castelo da Guarda está classificado como Monumento Nacional desde 1910.",
-    "imageDir": "castelo-da-guarda"
+    "imageDir": "castelo-da-guarda",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q1048974",
@@ -42,7 +46,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_da_Lousa",
     "summary": "castelo romano junto ao Guadiana no concelho de Mourão",
     "extract": "O chamado Castelo da Lousa, também referido como Castelo Romano da Lousa, é um sítio arqueológico romano e da Idade do Ferro, situada na área da Herdade do Montinho, na freguesia de Luz, município de Mourão, distrito de Évora, em Portugal. Foi submergido pela albufeira da Barragem do Alqueva.\nO Castelo da Lousa está classificado como Monumento Nacional desde 1970.",
-    "imageDir": "castelo-da-lousa"
+    "imageDir": "castelo-da-lousa",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049732",
@@ -57,7 +63,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_da_Lous%C3%A3",
     "summary": "castelo em Lousã, Portugal",
     "extract": "O Castelo da Lousã, também referido como Castelo de Arouce, localiza-se na freguesia de Lousã e Vilarinho, a cerca de dois quilómetros da vila, no município de Lousã, distrito de Coimbra, em Portugal.\nConstruído na segunda metade do século XI, este monumento localiza-se na serra da Lousã, na margem direita do rio Arouce, constituindo-se, nos nossos dias, em uma requisitada atração turística.\nEncontra-se classificado como Monumento Nacional por Decreto publicado em 23 de Junho de 1910.",
-    "imageDir": "castelo-da-lousa-2"
+    "imageDir": "castelo-da-lousa-2",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q96243219",
@@ -72,7 +80,9 @@
     "wikipedia": null,
     "summary": "castelo em Monção",
     "extract": null,
-    "imageDir": "castelo-da-pena-da-rainha-tambem-conhecido-por-castelo-de-sao-martinho-da-pena"
+    "imageDir": "castelo-da-pena-da-rainha-tambem-conhecido-por-castelo-de-sao-martinho-da-pena",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q96916980",
@@ -87,7 +97,9 @@
     "wikipedia": null,
     "summary": "Edifício oitocentista que terá sido edificado sobre ruínas de um castelo",
     "extract": null,
-    "imageDir": "castelo-da-redinha-antigo"
+    "imageDir": "castelo-da-redinha-antigo",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q17390099",
@@ -102,7 +114,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_da_Sert%C3%A3",
     "summary": "castelo medieval na Sertã",
     "extract": "O Castelo da Sertã localiza-se na vila, na freguesia e no Município da Sertã, no Distrito de Castelo Branco, em Portugal.",
-    "imageDir": "castelo-da-serta"
+    "imageDir": "castelo-da-serta",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5050438",
@@ -117,7 +131,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_da_Vidigueira",
     "summary": "castelo medieval na Vidigueira de que restam as ruínas da torre de menagem",
     "extract": "O Castelo da Vidigueira, também referido como Paço dos Gamas, no Baixo Alentejo, localiza-se na vila, na freguesia e no Município de Vidigueira, Distrito de Beja, em Portugal.\nIntegrante da Linha do Guadiana no século XIII, o castelo, do qual nos restam as ruínas da torre de menagem, terá sido adaptado a residência dos condes da Vidigueira.",
-    "imageDir": "castelo-da-vidigueira"
+    "imageDir": "castelo-da-vidigueira",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q3695846",
@@ -132,7 +148,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Abrantes",
     "summary": "castelo em Abrantes, Portugal",
     "extract": "O Castelo de Abrantes, também referido como Fortaleza de Abrantes, no Ribatejo, localiza-se na atual freguesia de Abrantes (São Vicente e São João) e Alferrarede, na cidade e no Município de Abrantes, no Distrito de Santarém, em Portugal.\nEm posição dominante sobre uma colina na margem direita do rio Tejo, outrora constituindo a chamada Linha do Tejo, um conjunto de fortalezas que atualmente faz parte da Região de Turismo dos Templários.\nO Castelo de Abrantes está classificado como Imóvel de Interesse Público desde 1957.",
-    "imageDir": "castelo-de-abrantes"
+    "imageDir": "castelo-de-abrantes",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q30622783",
@@ -147,7 +165,9 @@
     "wikipedia": null,
     "summary": "castelo em Aguiar da Beira de que resta uma torre ameada e outros vestígios",
     "extract": null,
-    "imageDir": "castelo-de-aguiar-da-beira"
+    "imageDir": "castelo-de-aguiar-da-beira",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q17390059",
@@ -162,7 +182,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Albufeira",
     "summary": "Castelo medieval árabe de Albufeira de que restam vestígios",
     "extract": "O Castelo de Albufeira, de que restam ruínas, também referido como Castelo e cerca urbana de Albufeira, era um castelo islâmico almorávida, de planta poligonal, originalmente com nove torres situado na atual Freguesia de Albufeira e Olhos de Água, na cidade e no Município de Albufeira, no Distrito de Faro, Algarve, em Portugal.",
-    "imageDir": "castelo-de-albufeira"
+    "imageDir": "castelo-de-albufeira",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049733",
@@ -177,7 +199,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Alcanede",
     "summary": "castelo medieval em Alcanede, Portugal",
     "extract": "O Castelo de Alcanede localiza-se na freguesia do mesmo nome, no município e no distrito de Santarém, em Portugal.\nEste monumento, em ruínas até ao início da década de 1940, foi objeto de intervenção de restauro da Direcção Geral dos Edifícios e Monumentos Nacionais (DGEMN), que procurou devolvê-lo à sua forma aproximada em fins da Idade Média, conservando-o como marco histórico na paisagem da região.\nO Castelo de Alcanede encontra-se classificado como Imóvel de Interesse Público desde 1943.",
-    "imageDir": "castelo-de-alcanede"
+    "imageDir": "castelo-de-alcanede",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5050359",
@@ -192,7 +216,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Alcantarilha",
     "summary": "castelo medieval em Alcantarilha, Portugal",
     "extract": "O Castelo de Alcantarilha, também referido como Muralhas de Alcantarilha, foi um antigo complexo militar na localidade e freguesia de Alcantarilha, no município de Silves, na região do Algarve, em Portugal. Foi originalmente construído durante o período muçulmano, tendo depois conhecido várias obras de expansão ao longo da sua história. Tinha uma função dupla, tanto para defender o interior do Algarve como para impedir invasões vindas de forças desembarcadas na costa. Entrou numa fase de declínio a partir do século XVIII, que levou à sua quase total demolição, tendo sobrevivido apenas alguns lanços de muralhas.\nOs vestígios sobreviventes do Castelo de Alcantarilha estão classificados como Imóvel de Interesse Público desde 1977.",
-    "imageDir": "castelo-de-alcantarilha"
+    "imageDir": "castelo-de-alcantarilha",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049737",
@@ -207,7 +233,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Alcoba%C3%A7a",
     "summary": "castelo em Alcobaça de que restam troços de muralhas",
     "extract": "O Castelo de Alcobaça localiza-se na freguesia de Alcobaça e Vestiaria do município de Alcobaça, região Oeste do Centro de Portugal.\nEm posição dominante a noroeste sobre a povoação, na margem esquerda do rio Baça, das suas ruínas tem-se uma bela vista sobre a cidade, inclusive o seu famoso mosteiro, os campos envolventes e a serra dos Candeeiros.\nEncontra-se classificado como Imóvel de Interesse Público desde 1978.",
-    "imageDir": "castelo-de-alcobaca"
+    "imageDir": "castelo-de-alcobaca",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5050360",
@@ -222,7 +250,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Alcoutim",
     "summary": "fortaleza medieval e moderna em Alcoutim",
     "extract": "O Castelo de Alcoutim, também referido como Castelo Novo ou Fortaleza de Alcoutim, no Algarve, localiza-se na freguesia de Alcoutim e Pereiro, na vila  e Município de Alcoutim, no Distrito de Faro, em Portugal.\nVigiando a travessia da linha aquática de fronteira, o Castelo de Alcoutim ergue-se em posição dominante sobre uma colina ao sul da povoação, na margem direita da ribeira de São Marcos, na sua confluência com o rio Guadiana. Na margem oposta deste, pode ser observado o Castelo de Sanlúcar de Guadiana, em território da Espanha.\nO Castelo de Alcoutim está classificado como Imóvel de Interesse Público desde 1993.",
-    "imageDir": "castelo-de-alcoutim"
+    "imageDir": "castelo-de-alcoutim",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049734",
@@ -237,7 +267,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Alc%C3%A1cer_do_Sal",
     "summary": "castelo em Alcácer do Sal, Portugal",
     "extract": "O Castelo de Alcácer do Sal, no Alentejo, localiza-se na cidade e município de Alcácer do Sal, distrito de Setúbal, em Portugal.\nÉ considerado Monumento Nacional desde 1910.\nDesde os primeiros tempos da ocupação a pesca e a exploração do sal trouxeram riqueza à região, apenas superada, em meados do século XIX, pela cultura do arroz.\nSituando-se numa colina da margem direita do rio Sado, o castelo ergue-se em posição dominante sobre a margem oposta (Sul), integrando, atualmente, a Região de Turismo da Costa Azul portuguesa.",
-    "imageDir": "castelo-de-alcacer-do-sal"
+    "imageDir": "castelo-de-alcacer-do-sal",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049735",
@@ -252,7 +284,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Alegrete",
     "summary": "castelo medieval em Alegrete",
     "extract": "O Castelo de Alegrete localiza-se na freguesia de Alegrete, município de Portalegre, no distrito de mesmo nome, em Portugal.\nEstrategicamente postada, constituiu-se numa das mais importantes fortificações do Alto Alentejo raiano, peça fundamental no sistema defensivo da região na Idade Média. Atualmente, apresenta potencial para constituir-se em importante pólo de atração turística para uma região que se ressente da sua interioridade.\nO Castelo de Alegrete está classificado como Monumento Nacional desde 1946.",
-    "imageDir": "castelo-de-alegrete"
+    "imageDir": "castelo-de-alegrete",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049738",
@@ -267,7 +301,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Alenquer",
     "summary": "building in Alenquer, Lisbon District, Portugal",
     "extract": "O Castelo de Alenquer, também referido como Castelo e cerca urbana de Alenquer, localiza-se na atual freguesia de Alenquer (Santo Estêvão e Triana), na vila e no Município de Alenquer, região Oeste e distrito de Lisboa, em Portugal.\nO Castelo de Alenquer está classificado como Imóvel de Interesse Público desde 1955.",
-    "imageDir": "castelo-de-alenquer"
+    "imageDir": "castelo-de-alenquer",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049739",
@@ -282,7 +318,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Alfaiates",
     "summary": "castelo medieval em Alfaiates, Portugal",
     "extract": "O Castelo de Alfaiates localiza-se na povoação e freguesia de Alfaiates, município de Sabugal, distrito da Guarda, em Portugal.\nEmbora erguido em área de planalto, a colina onde assenta tornou-o num estratégico e importante ponto avançado na defesa da fronteira. Em conjunto com a fortaleza de Almeida controlavam um vasto território. Durante a Guerra da Restauração da Independência (1640) desempenhou um papel determinante na defesa nacional, sendo considerado uma das Chaves do Reino, à semelhança de Almeida e Elvas.\nHoje em dia é o maior ponto turístico da região, do alto de suas muralhas avistam-se as terras agrestes de Ribacôa. O Rio Côa, que atravessa o Concelho, é importante atracção turística da região, permitindo o turismo recreativo e desportivo, em particular a pesca de trutas.\nO Castelo de Alfaiates está classificado como Monumento Nacional desde 1982.",
-    "imageDir": "castelo-de-alfaiates"
+    "imageDir": "castelo-de-alfaiates",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049740",
@@ -297,7 +335,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Alfeizer%C3%A3o",
     "summary": "castelo medieval em Alfeizerão de que restam vestígios",
     "extract": "O Castelo de Alfeizerão, de que restam vestígios, localizava-se na povoação e na freguesia de Alfeizerão, no Município de Alcobaça, região Oeste portuguesa e província histórica da Estremadura.\nEm posição dominante sobre uma colina, originalmente dominando um porto de mar, dista hoje cerca de três quilómetros da enseada de São Martinho do Porto.",
-    "imageDir": "castelo-de-alfeizerao"
+    "imageDir": "castelo-de-alfeizerao",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049741",
@@ -312,7 +352,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Algoso",
     "summary": "castelo medieval em Algoso, Portugal",
     "extract": "O Castelo de Algoso localiza-se a sul da povoação de Algoso, na freguesia de Algoso, Campo de Víboras e Uva, no município de Vimioso, distrito de Bragança, em Portugal. Encontra-se a 690 metros de altitude, ao lado da ribeira da Angueira.\nOs castelos de Bragança, Outeiro (Bragança), Algoso e Castelo de Miranda do Douro, apoiados pelas pequenas fortalezas da Atalaia de Candaira, Castelo de Rebordãos, Vimioso e Penas Roias, formavam a linha defensiva do noroeste do Reino de Portugal com o Reino de Leão, que em 1493 o rei João II de Portugal chamou o “corregimento das fortalezas de Trallos Montes”. A linha defensiva continuaria a sul com o Castelo de Freixo de Espada à Cinta (1152) e terminaria com o Castelo de Alva.\nEm posição dominante sobre o cabeço da Penenciada, domina a planície envolvente e a confluência da ribeira de Angueira com o rio Maçãs. Na região de Trás-os-Montes e Alto Douro, do alto dos seus muros avistam-se a Serra da Sanábria, a de Serra de Bornes e a de Serra da Nogueira. Tem uma vista de 360 graus do planalto mirandês.\nO Castelo de Algoso contribuiria ao repovoamento que promoveu o rei Sancho I de Portugal, das zonas remotas do reino com imigrantes da Flandres e da Borgonha, ao qual se junta o repovoamento com galegos dos reis anteriores.\nO Castelo de Algoso encontra-se classificado como imóvel de interesse público desde 1955.",
-    "imageDir": "castelo-de-algoso"
+    "imageDir": "castelo-de-algoso",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5050363",
@@ -327,7 +369,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Aljezur",
     "summary": "castelo medieval em Aljezur, Portugal",
     "extract": "O Castelo de Aljezur, originalmente grafado como Algezur ou Algesur, é um monumento militar na vila de Aljezur, no Distrito de Faro, em Portugal. De acordo com os vestígios encontrados, o sítio foi ocupado pelo menos desde as idades do Bronze e Ferro, tendo sido depois utilizado durante os períodos romano e islâmico e após a Reconquista. A sua principal função era controlar a Ribeira de Aljezur, pelo que terá sido abandonado na transição entre os séculos XV e XVI, devido ao assoreamento daquele eixo fluvial. Segundo a tradição, é um dos castelos do Algarve representados na Bandeira de Portugal. O Castelo de Aljezur foi muito danificado pelo Sismo de 1755, só tendo sido parcialmente reconstruído entre 1940 e 1941, no âmbito das comemorações nacionais. Foi classificado como Imóvel de Interesse Público em 1977.",
-    "imageDir": "castelo-de-aljezur"
+    "imageDir": "castelo-de-aljezur",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049742",
@@ -342,7 +386,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Aljustrel",
     "summary": "antigo castelo em Aljustrel de que restam vestígios na Igreja de Nossa Senhora do Castelo",
     "extract": "O Castelo de Aljustrel é uma estrutura histórica na vila e no Município de Aljustrel, no Distrito de Beja, em Portugal. Do castelo restam apenas algumas ruínas e a Igreja de Nossa Senhora do Castelo, que é considerada como um dos principais marcos da vila. As ruínas do castelo e a Igreja formam um só conjunto, classificado como Imóvel de Interesse Público. Apesar do local ser ocupado desde a pré-história, o castelo em si só foi construído durante o período muçulmano, tendo sido tomado em 1234, como parte do processo da Reconquista cristã. Aljustrel foi uma destacada base militar durante o processo de reconquista do Alentejo e do Algarve, mas perdeu a sua importância após o final daquele conflito, tornando-se apenas numa simples comenda da Ordem de Santiago, pelo que o castelo entrou em declínio. A colina voltou a ganhar relevo no século XIV, com a construção do importante santuário mariano de Nossa Senhora do Castelo.",
-    "imageDir": "castelo-de-aljustrel"
+    "imageDir": "castelo-de-aljustrel",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q8342165",
@@ -357,7 +403,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Almada",
     "summary": "building in Almada, Setúbal District, Portugal",
     "extract": "O Castelo de Almada localiza-se na freguesia e cidade de Almada, no distrito de Setúbal, em Portugal.",
-    "imageDir": "castelo-de-almada"
+    "imageDir": "castelo-de-almada",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q2599326",
@@ -372,7 +420,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Almourol",
     "summary": "castle in Portugal",
     "extract": "O Castelo de Almourol localiza-se na freguesia de Praia do Ribatejo do município de Vila Nova da Barquinha, distrito de Santarém. Integra atualmente a região do Oeste e Vale do Tejo, em Portugal, embora a sua localização seja frequentemente atribuída a Tancos, visto ser a vila mais perto e de onde se vislumbra melhor.\nErguido num afloramento de granito a 18 metros acima do nível das águas, numa pequena ilha de 310 metros de comprimento por 75 metros de largura, no médio curso do rio Tejo, um pouco abaixo da sua confluência com o rio Zêzere, à época da Reconquista integrava a chamada Linha do Tejo. Constitui um dos exemplos mais representativos da arquitetura militar da época, evocando simultaneamente os primórdios do reino de Portugal e a Ordem dos Templários, associação que lhe reforça a aura de mistério e romantismo. \nCom a extinção da Ordem do Templo o castelo de Almourol passa a integrar o património da Ordem de Cristo (que foi a sucessora em Portugal da Ordem dos Templários).\nO Castelo de Almourol está classificado como Monumento Nacional desde 1910.",
-    "imageDir": "castelo-de-almourol"
+    "imageDir": "castelo-de-almourol",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q17390061",
@@ -387,7 +437,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Alpalh%C3%A3o",
     "summary": "castelo medieval em Alpalhão de que restam vestígios e algumas torres",
     "extract": "O Castelo de Alpalhão (desaparecido) localizava-se na povoação e freguesia de Alpalhão, no atual Município de Nisa, Distrito de Portalegre, em Portugal. \nFundado por D. Dinis em 1300, fez parte da Ordem do Templo e da Ordem de Cristo, iniciando-se a sua extinção em 1704, aquando da Guerra de Sucessão Espanhola.",
-    "imageDir": "castelo-de-alpalhao"
+    "imageDir": "castelo-de-alpalhao",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049747",
@@ -402,7 +454,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Alter_Pedroso",
     "summary": "castelo medieval em Alter Pedroso, no município de Alter do Chão",
     "extract": "O Castelo de Alter Pedroso, também referido como Fortificações de Alter Pedroso, localiza-se no Alentejo, na localidade de Alter Pedroso, na freguesia de Alter do Chão, na vila e no município homónimos, distrito de Portalegre, em Portugal.\nConstituiu um importante elo com outros castelos da linha defensiva alentejana, entre eles o Castelo de Alter do Chão.\nDa primitiva estrutura só resta um portal no estilo gótico, partes de muralha em ruínas e a porta da Capela de São Bento no interior. Estes vestígios foram classificados como Imóvel de Interesse Público por Decreto publicado em 29 de Setembro de 1977.",
-    "imageDir": "castelo-de-alter-pedroso"
+    "imageDir": "castelo-de-alter-pedroso",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049744",
@@ -417,7 +471,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Alter_do_Ch%C3%A3o",
     "summary": "castelo medieval em Alter do Chão",
     "extract": "O Castelo de Alter do Chão, no Alentejo, localiza-se na freguesia de Alter do Chão, na vila e município do mesmo nome, distrito de Portalegre, em Portugal.\nNo centro histórico da vila, este castelo é representativo da arquitetura medieval trecentista, quando cooperava com o vizinho Castelo de Alter Pedroso na defesa desta região.\nO Castelo de Alter do Chão está classificado como Monumento Nacional desde 1910.",
-    "imageDir": "castelo-de-alter-do-chao"
+    "imageDir": "castelo-de-alter-do-chao",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049745",
@@ -432,7 +488,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Alva",
     "summary": "castelo medieval em Poiares",
     "extract": "O Castelo de Alva, de que subsistem vestígios, ergueu-se no lugar de Alva, freguesia de Poiares, no Município de Freixo de Espada à Cinta, Distrito de Bragança, em Portugal.\nOs vestígios do Castelo de Alva, designadamente um primitivo torreão, foram considerados como Imóvel de Interesse Público por Decreto publicado em 20 de Outubro de 1955.",
-    "imageDir": "castelo-de-alva"
+    "imageDir": "castelo-de-alva",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q4993716",
@@ -447,7 +505,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Alvito",
     "summary": "castelo medieval em Alvito",
     "extract": "O Castelo de Alvito é um monumento militar e uma pousada, situado na vila de Alvito, na região do Alentejo, em Portugal. É considerado um exemplo de um palácio fortificado, que conciliava as funções de uma fortaleza e de uma casa abastada. Também se destaca pela sua combinação de estilos, com vários elementos góticos e manuelinos, e de inspiração islâmica.\nA sua construção foi ordenada por D. João II, para os Barões de Alvito, tendo sido concluído nos princípios do século XVI, já no reino de D. Manuel. Esteve na posse da mesma família durante cerca de quatrocentos anos, mas acabou por ser vendido à Casa Real Portuguesa no século XIX. Em 1910 foi classificado como Monumento Nacional, e em 1993 foi convertido numa Pousada de Portugal.",
-    "imageDir": "castelo-de-alvito"
+    "imageDir": "castelo-de-alvito",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5050364",
@@ -462,7 +522,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Alvor",
     "summary": "castelo medieval em Alvor, Portugal",
     "extract": "O Castelo de Alvor, também denominado como Castelo de Albur ou Forte de Alvor, localiza-se na vila e freguesia de Alvor, Município de Portimão, Distrito de Faro, em Portugal. Consiste num castelo medieval, que foi destruído pelo Sismo de 1755, tendo sobrevivido apenas alguns restos de muralhas. Foi classificado como Imóvel de Interesse Público em 1984.",
-    "imageDir": "castelo-de-alvor"
+    "imageDir": "castelo-de-alvor",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5050365",
@@ -477,7 +539,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Amieira",
     "summary": "castelo medieval em Amieira do Tejo, Portugal",
     "extract": "O Castelo de Amieira, também referido como Castelo da Amieira, no Alentejo, localiza-se na vila de Amieira do Tejo, freguesia de Arez e Amieira do Tejo, no município de Nisa, distrito de Portalegre, em Portugal.\nA antiga povoação de Amieira, a meio caminho entre Belver e Nisa, integrava a chamada Linha do Tejo, linha de defesa da fronteira, na margem sul do rio Tejo. Constituía-se numa das onze vilas que a Ordem dos Hospitalários detinha na região.\nO Castelo de Amieira está classificado como Monumento Nacional desde 1922.",
-    "imageDir": "castelo-de-amieira"
+    "imageDir": "castelo-de-amieira",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049748",
@@ -492,7 +556,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Arnoia",
     "summary": "castelo medieval em Arnoia, Portugal",
     "extract": "O Castelo de Arnóia, também conhecido como Castelo de Arnoia, Castelo dos Mouros ou Castelo de Moreira, é um castelo situado na freguesia de Arnoia, no município de Celorico de Basto, no distrito de Braga, em Portugal.\nErguido sobre um esporão rochoso dominante sobre a antiga Vila de Basto, foi um dos principais centros defensivos e administrativos das Terras de Basto. A sua construção é geralmente situada entre o final do século X e o início do século XI, na época do Condado Portucalense, antes da formação do Reino de Portugal, num contexto de expansão das fortificações castrais na Europa ocidental.\nO castelo encontra-se classificado como Monumento Nacional desde 15 de março de 1946.",
-    "imageDir": "castelo-de-arnoia"
+    "imageDir": "castelo-de-arnoia",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049749",
@@ -507,7 +573,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Arraiolos",
     "summary": "castelo medieval em Arraiolos",
     "extract": "O Castelo de Arraiolos, também conhecido como Paço dos Alcaides, localiza-se na vila, freguesia e município de Arraiolos, no distrito de Évora, em Portugal. \nDestaca-se por ser um dos raros castelos de planta circular, no mundo.[carece de fontes?]\nNo início do século XX foi classificado como Monumento Nacional, por Decreto publicado em 23 de Junho de 1910.",
-    "imageDir": "castelo-de-arraiolos"
+    "imageDir": "castelo-de-arraiolos",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049750",
@@ -522,7 +590,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Arronches",
     "summary": "fortaleza em Arronches",
     "extract": "O Castelo de Arronches, também referido como Fortaleza de Arronches ou Fortificações de Arronches, no Alentejo, localiza-se na freguesia de Assunção, na vila de Arronches, distrito de Portalegre, em Portugal.\nA vila fronteiriça de Arronches, no Alto Alentejo, constituiu uma importante praça-forte durante as guerras com a Espanha no século XVII.\nO Castelo de Arronches encontra-se classificado como Imóvel de Interesse Público desde 1977.",
-    "imageDir": "castelo-de-arronches"
+    "imageDir": "castelo-de-arronches",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q9705057",
@@ -537,7 +607,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Assumar",
     "summary": "castelo medieval em Assumar",
     "extract": "O Castelo de Assumar localizava-se na vila e na Freguesia de Assumar, no Município de Monforte, Distrito de Portalegre, em Portugal.",
-    "imageDir": "castelo-de-assumar"
+    "imageDir": "castelo-de-assumar",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049752",
@@ -552,7 +624,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Avis",
     "summary": "castelo medieval em Avis de que restam vestígios",
     "extract": "O Castelo de Avis localiza-se na vila, freguesia e município de Avis, no distrito de Portalegre, em Portugal.\nA sua edificação prende-se à instalação da Ordem Militar de São Bento de Avis na região do Alentejo.\nO que subsiste do Castelo de Avis está classificado como Monumento Nacional desde 1910.",
-    "imageDir": "castelo-de-avis"
+    "imageDir": "castelo-de-avis",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q66943766",
@@ -567,7 +641,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Av%C3%B4",
     "summary": "castelo em Oliveira do Hospital, Portugal",
     "extract": "O Castelo de Avô localiza-se na vila e na freguesia de Avô, no Município de Oliveira do Hospital, Distrito de Coimbra, em Portugal.\nO Castelo de Avô está classificado como Imóvel de Interesse Público desde 1963.",
-    "imageDir": "castelo-de-avo"
+    "imageDir": "castelo-de-avo",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049755",
@@ -582,7 +658,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Azinhalinho",
     "summary": "building in Corval, Évora District, Portugal",
     "extract": "O Castelo de Azinhalinho ergueu-se na freguesia e na vila de Corval, Município de Reguengos de Monsaraz, Distrito de Évora, no Alentejo, em Portugal.",
-    "imageDir": "castelo-de-azinhalinho"
+    "imageDir": "castelo-de-azinhalinho",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049756",
@@ -597,7 +675,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Barbacena",
     "summary": "castelo em Barbacena, no Município de Elvas",
     "extract": "O Castelo de Barbacena, ou Fortificações de Barbacena, localiza-se em Barbacena (Elvas), no Município de Elvas, no Distrito de Portalegre, no Alentejo, junto à fronteira com Espanha.\nDevido à sua proximidade com Espanha, o castelo e a localidade sempre foram alvos de ataques inimigos, nomeadamente durante a Guerra da Restauração, altura em que, no ano de 1658, a guarnição se viu mesmo obrigada a render-se ao comandante espanhol, o Duque de Ossuna.\nO Castelo de Barbacena está classificado como Imóvel de Interesse Público desde 1967.\nEm 2014, o Castelo de Barbacena foi integrado num novo projeto do Ministério da Defesa Nacional, criado com o apoio do Turismo de Portugal, chamado Turismo Militar, que apresenta roteiros históricos baseados em heróis portugueses.",
-    "imageDir": "castelo-de-barbacena"
+    "imageDir": "castelo-de-barbacena",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049757",
@@ -612,7 +692,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Beja",
     "summary": "castelo medieval em Beja, Portugal",
     "extract": "O Castelo de Beja, no Alentejo, ergue-se sobre a cidade, município e distrito de Beja, em Portugal.\nO Castelo de Beja está classificado como Monumento Nacional desde 1910.",
-    "imageDir": "castelo-de-beja"
+    "imageDir": "castelo-de-beja",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049758",
@@ -627,7 +709,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Belmonte",
     "summary": "castelo medieval em Belmonte, Portugal",
     "extract": "O Castelo de Belmonte, na Beira Baixa, localiza-se na freguesia de Belmonte e Colmeal da Torre, vila e município de Belmonte, distrito de Castelo Branco, em Portugal.\nEm posição dominante sobre uma elevação à margem esquerda do rio Zêzere, na região da serra da Estrela, este castelo medieval tem a sua história ligada à dos descobrimentos portugueses e à do Brasil, uma vez que os seus Alcaides pertenciam à família do navegador Pedro Álvares Cabral.\nO Castelo de Belmonte foi declarado como Monumento Nacional por Decreto publicado em 15 de Outubro de 1927.",
-    "imageDir": "castelo-de-belmonte"
+    "imageDir": "castelo-de-belmonte",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5050367",
@@ -642,7 +726,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Belver",
     "summary": "castelo medieval em Belver, Portugal",
     "extract": "O Castelo de Belver, no Alentejo, localiza-se na freguesia de Belver, no município de Gavião, distrito de Portalegre, em Portugal.\nConsiderado um dos mais completos da arquitectura militar medieval portuguesa, ergue-se isolado no alto de um monte granítico, a Oeste da vila, em posição dominante sobre a confluência da ribeira de Belver com a margem direita do rio Tejo, guarnecendo a então chamada Linha do Tejo.\nO Castelo de Belver está classificado como Monumento Nacional desde 1910.",
-    "imageDir": "castelo-de-belver"
+    "imageDir": "castelo-de-belver",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049760",
@@ -657,7 +743,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Borba",
     "summary": "castelo medieval em Borba, Portugal",
     "extract": "O Castelo de Borba ergue-se na freguesia, na vila e no município de Borba, no distrito de Évora, no Alentejo, em Portugal.\nEstá classificado como Imóvel de Interesse Público desde 1957.",
-    "imageDir": "castelo-de-borba"
+    "imageDir": "castelo-de-borba",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5050369",
@@ -672,7 +760,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Braga",
     "summary": "Castelo e cerca amuralhada da cidade de Braga",
     "extract": "O Castelo de Braga era uma fortificação histórica que fazia parte da linha defensiva que circundava a cidade de Braga, hoje em  grande parte destruída. A torre de menagem, situada na freguesia de São João do Souto, é o único vestígio bem visível do castelo medieval.\nDas muralhas da cidade, restam apenas alguns murros muitas vezes escondidos e integradas em edifícios a torre de Santiago, a torre de São Sebastião, a base da torre da igreja da Lapa … a Porta Nova (esta última completamente remodelada em estilo rococó e estilisticamente completamente diferente).\nSeu perímetro era de um pouco menos de 2000 m, delimitado a leste pela Praça da República, a oeste pela Rua do Castelo (localização da torre de menagem e do antigo castelo), Rua de São Marcos, Rua do Anjo, Largo de Santiago, Rua do Alcaide, Largo de Paulo Orósio (torre da cerca visível da Casa da Torre), Rua de Jerónimo Pimentel, Campo das Carvalheiras, Avenida de São Miguel o Anjo, Largo da Porta Nova, Rua dos Biscainhos, Praça do Conselheiro Torres e Almeida e Rua dos Capelistas.\nA demolição começou a partir de 1858, poucos vestígios medievais permanecem hoje. No entanto, o pouco que subsiste do Castelo de Braga (Torre de Menagem) e das fortificações, estão classificados como Monumento Nacional por Decreto publicado em 23 de Junho de 1910.",
-    "imageDir": "castelo-de-braga"
+    "imageDir": "castelo-de-braga",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049762",
@@ -687,7 +777,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Bragan%C3%A7a",
     "summary": "castelo medieval em Bragança",
     "extract": "O Castelo de Bragança localiza-se na freguesia de Sé, Santa Maria e Meixedo, no centro histórico da cidade de Bragança, no município e distrito do mesmo nome, em Portugal.\nEm Trás-os-Montes, no extremo nordeste do país, à margem do rio Fervença, é um dos mais importantes e bem preservados castelos portugueses. Do alto de seus muros avistam-se as serras de Montesinho e de Sanábria (a norte), a de Rebordões (a nordeste) e a de Nogueira (a oeste).\nNo século XX, o castelo foi classificado como Monumento Nacional por decreto publicado em 23 de junho de 1910.",
-    "imageDir": "castelo-de-braganca"
+    "imageDir": "castelo-de-braganca",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q9705141",
@@ -702,7 +794,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Cabe%C3%A7o_de_Vide",
     "summary": "castelo medieval em Cabeço de Vide, Portugal",
     "extract": "O Castelo de Cabeço de Vide ergue-se na vila de Cabeço de Vide, no Município de Fronteira, Distrito de Portalegre, no Alentejo, em Portugal.",
-    "imageDir": "castelo-de-cabeco-de-vide"
+    "imageDir": "castelo-de-cabeco-de-vide",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5050370",
@@ -717,7 +811,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Campo_Maior",
     "summary": "castelo medieval em Campo Maior",
     "extract": "O Castelo de Campo Maior, no Alentejo, localiza-se na freguesia de São João Baptista, na vila e município de Campo Maior, distrito de Portalegre, em Portugal.\nErguido no alto do outeiro de Santa Vitória para defesa da raia alentejana, do alto de suas torres se divisam as vizinhas Badajoz e Elvas. Atualmente o monumento integra a Praça-forte de Campo Maior, sendo esta depois da de Elvas, a mais importante fortificação do Distrito.\nO Castelo de Campo Maior está classificado como Monumento Nacional desde 1911.",
-    "imageDir": "castelo-de-campo-maior"
+    "imageDir": "castelo-de-campo-maior",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5050371",
@@ -732,7 +828,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Ansi%C3%A3es",
     "summary": "Monumento Nacional em Carrazeda de Ansiães, Portugal",
     "extract": "O Castelo de Ansiães, também referido como Castelo de Carrazeda de Ansiães, localiza-se na freguesia de Lavandeira, Beira Grande e Selores, concelho de Carrazeda de Ansiães, distrito de Bragança, em Portugal.\nA sua implantação geográfica confere-lhe um controlo geoestratégico sobre o vale do rio Douro e a norte, este e oeste, sobre um extenso troço do planalto carrazedense. \nEm 1910 foi classificado como Monumento Nacional por Decreto publicado, em 23 de Junho.",
-    "imageDir": "castelo-de-carrazeda-ruinas"
+    "imageDir": "castelo-de-carrazeda-ruinas",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049765",
@@ -747,7 +845,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Castelo_Bom",
     "summary": "castelo medieval em Castelo Bom, Portugal",
     "extract": "O Castelo de Castelo Bom localiza-se na aldeia e na freguesia de Castelo Bom, no Município de Almeida, Distrito da Guarda, em Portugal.\nErgue-se em posição dominante num cabeço rochoso, sobranceiro ao rio Côa, cuja travessia defendia. Integrante das terras de Ribacôa, é vizinho do Castelo de Almeida e do Castelo Mendo.\nO Castelo de Castelo Bom está classificado como Monumento Nacional desde 1946.",
-    "imageDir": "castelo-de-castelo-bom"
+    "imageDir": "castelo-de-castelo-bom",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049767",
@@ -762,7 +862,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Castelo_Melhor",
     "summary": "castelo medieval em Castelo Melhor, município de Vila Nova de Foz Coa",
     "extract": "O Castelo de Castelo Melhor localiza-se na freguesia e vila de mesmo nome, município de Vila Nova de Foz Côa, distrito da Guarda, em Portugal.\nEm posição dominante no alto de um monte, atualmente cercado pelo arvoredo, constituía um castelo secundário, acessório na defesa do território de Ribacôa.[carece de fontes?]\nO Castelo de Castelo Melhor está classificado como Imóvel de Interesse Público desde 1982.",
-    "imageDir": "castelo-de-castelo-melhor"
+    "imageDir": "castelo-de-castelo-melhor",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q2968792",
@@ -777,7 +879,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Castelo_Mendo",
     "summary": "castelo medieval em Castelo Mendo, Portugal",
     "extract": "O Castelo de Castelo Mendo, na Beira Interior, localiza-se na freguesia de Castelo Mendo, Ade, Monteperobolso e Mesquitela, vila de Castelo Mendo, município de Almeida, distrito da Guarda, em Portugal.\nFortificação secundária na raia fronteiriça de Ribacôa, ergue-se em posição dominante a 762 metros de altitude sobre um cabeço rochoso sobranceiro ao ribeiro de Cadelos e ao rio Côa, integrando o conjunto bem preservado da vila medieval.\nO Castelo de Castelo Mendo está classificado como Monumento Nacional desde 1946.",
-    "imageDir": "castelo-de-castelo-mendo"
+    "imageDir": "castelo-de-castelo-mendo",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q9705144",
@@ -792,7 +896,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Castelo_Novo",
     "summary": "castelo medieval de Castelo Novo, Portugal",
     "extract": "O Castelo de Castelo Novo localiza-se em Castelo Novo, no Município do Fundão, Distrito de Castelo Branco, em Portugal.\nErguido sobre um afloramento rochoso na vertente leste da chamada serra da Gardunha, constituía-se no pólo militar em torno do qual se desenvolveu a povoação de Castelo Novo, sucessora da de Castelo Velho, no topo da serra. Castelo Novo, atualmente, integra o Programa Aldeias Históricas.",
-    "imageDir": "castelo-de-castelo-novo"
+    "imageDir": "castelo-de-castelo-novo",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q1048954",
@@ -807,7 +913,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Castelo_Rodrigo",
     "summary": "castelo medieval em Castelo Rodrigo",
     "extract": "O Castelo de Castelo Rodrigo localiza-se na vila e Freguesia do mesmo nome, Município de Figueira de Castelo Rodrigo, Distrito da Guarda, em Portugal.\nEm posição dominante sobre a ribeira de Aguiar, ao sul da planície de Ribacôa, constituía-se em local de passagem para os peregrinos que, da Beira Baixa, se dirigiam a Santiago de Compostela pelo caminho que, na Idade Média, ia da Guarda a Barca d’Alva. Eles encontravam abrigo no vizinho Convento de Santa Maria de Aguiar. Atualmente os muros do castelo envolvem a povoação, integrante do Programa Aldeias Históricas.\nAs muralhas do Castelo de Castelo Rodrigo estão classificadas como Monumento Nacional desde 1922.",
-    "imageDir": "castelo-de-castelo-rodrigo"
+    "imageDir": "castelo-de-castelo-rodrigo",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049768",
@@ -822,7 +930,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Castelo_de_Vide",
     "summary": "castelo medieval em Castelo de Vide",
     "extract": "O Castelo de Castelo de Vide, no Alentejo, localiza-se na freguesia de Santa Maria da Devesa, vila e município de Castelo de Vide, distrito de Portalegre, em Portugal.\nEm posição dominante no alto de uma colina a norte da serra de São Mamede, revestia-se de importância estratégica devido à sua proximidade com a fronteira. Devido ao esplendor da paisagem circundante, a povoação é conhecida localmente como a Sintra do Alentejo.\nO Castelo de Castelo de Vide está classificado como Monumento Nacional desde 1910.",
-    "imageDir": "castelo-de-castelo-de-vide"
+    "imageDir": "castelo-de-castelo-de-vide",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5050787",
@@ -837,7 +947,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Castro_Laboreiro",
     "summary": "castelo medieval em Castro Laboreiro, Portugal",
     "extract": "O Castelo de Castro Laboreiro, também referido como Castelo de Castro Laboredo, localiza-se na vila de Castro Laboreiro, na atual freguesia de Castro Laboreiro e Lamas de Mouro, Município de Melgaço, Distrito de Viana do Castelo, em Portugal.\nEm posição dominante no alto de um monte, em terreno de difícil acesso entre as bacias do rio Minho e do rio Lima, está integrado no Parque Nacional da Peneda-Gerês.\nO Castelo de Castro Laboreiro está classificado como Monumento Nacional desde 1944.",
-    "imageDir": "castelo-de-castro-laboreiro"
+    "imageDir": "castelo-de-castro-laboreiro",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5050374",
@@ -852,7 +964,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Castro_Marim",
     "summary": "castelo em Castro Marim",
     "extract": "O Castelo de Castro Marim localiza-se na vila, freguesia e município do mesmo nome, no Distrito de Faro, em Portugal.\nFortificação raiana, em posição dominante sobre o chamado monte do Castelo, defendia aquele ponto de travessia sobre a margem direita da foz do rio Guadiana, fronteiro ao Castelo de Ayamonte na margem oposta, hoje na Espanha. Ex-libris da vila, é considerado pelos estudiosos como um dos mais significativos monumentos da Idade Média portuguesa na paisagem da região. Encontra-se integrado na Reserva Natural do Sapal de Castro Marim e Vila Real de Santo António, sendo bastante apreciada a vista panorâmica sobre o rio, a zona do Sapal, a serra algarvia, a Espanha, as salinas e as praias daquele litoral.\nO Castelo de Castro Marim está classificado como Monumento Nacional desde 1910.",
-    "imageDir": "castelo-de-castro-marim"
+    "imageDir": "castelo-de-castro-marim",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049769",
@@ -867,7 +981,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Celorico_da_Beira",
     "summary": "castelo medieval em Celorico da Beira",
     "extract": "O Castelo de Celorico da Beira localiza-se na vila do mesmo nome, freguesia de Celorico (São Pedro e Santa Maria) e Vila Boa do Mondego, município de Celorico da Beira, distrito da Guarda, em Portugal.\nErguido num cabeço granítico, no sopé da serra da Estrela, em posição dominante sobre a vila e o rio Mondego, do alto de seus muros avistam-se os vizinhos Castelo de Linhares (a sudoeste), Castelo da Guarda (a sudeste), Castelo de Trancoso (a norte), o Parque Natural da Serra da Estrela (a sul) e o rio Côa (a leste).\nO Castelo de Celorico da Beira está classificado como Monumento Nacional desde 1910.",
-    "imageDir": "castelo-de-celorico-da-beira"
+    "imageDir": "castelo-de-celorico-da-beira",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049770",
@@ -882,7 +998,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Chaves",
     "summary": "castelo medieval em Chaves",
     "extract": "O Castelo de Chaves, ou Castelo de Chaves e restos da fortificação abaluartada na cidade, localiza-se na freguesia de Santa Maria Maior, cidade e município de Chaves, distrito de Vila Real, em Portugal.\nEm posição dominante sobre uma elevação à beira do rio Tâmega, defendia a fronteira com a Galiza.\nO Castelo de Chaves está classificado como Monumento Nacional desde 1938.",
-    "imageDir": "castelo-de-chaves"
+    "imageDir": "castelo-de-chaves",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049772",
@@ -897,7 +1015,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Curutelo",
     "summary": "palacete de feição acastelada em Ponte de Lima, Portugal",
     "extract": "O Castelo de Curutelo ou Paço de Curutêlo é um paço situado na freguesia de Ardegão, Freixo e Mato, município de Ponte de Lima, distrito de Viana do Castelo, em Portugal.\nPaço de feição acastelada implantado em área rural, ergue-se a meia encosta do monte de São Cristóvão dos Milagres ou do Curutelo, sobranceiro a um pequeno vale, sendo envolvido por árvores.\nO Castelo de Curutelo está classificado como Imóvel de Interesse Público desde 1977.",
-    "imageDir": "castelo-de-curutelo"
+    "imageDir": "castelo-de-curutelo",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q213362",
@@ -912,7 +1032,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Elvas",
     "summary": "castelo medieval em Elvas",
     "extract": "O Castelo de Elvas, no Alentejo, localiza-se na freguesia da Caia, São Pedro e Alcáçova, na cidade e município de Elvas, distrito de Portalegre, em Portugal.\nInsere-se num conjunto de fortificações e obras anexas, consideradas Património da Humanidade desde 2012.\nErguido na zona lindeira, no alto de um monte em posição dominante sobre a povoação e o rio Guadiana, integra um impressionante conjunto defensivo erguido ao longo dos séculos. Na Idade Média, o papel do castelo era complementar à invocação expressa no brasão de armas da cidade: Custodi nos domine, ut pupilam oculi (Guardai-nos, Senhor, como à menina dos olhos). Atualmente é considerado como um dos melhores exemplos da evolução histórica da arquitectura militar no país.\nEstrategicamente, a Praça forte de Elvas virava-se para Espanha e era considerada uma das primeiras defesas do Reino de Portugal durante a Guerra da Restauração.\nO Castelo de Elvas está classificado como Monumento Nacional desde 1906. Integrando a Cidade – Quartel Fronteiriça de Elvas e as suas Fortificações, está classificado desde o dia 30 de Junho de 2012 como Património Mundial da Humanidade pela UNESCO.\nEm 2014, o Castelo de Elvas foi integrado num novo projeto do Ministério da Defesa Nacional, criado com o apoio do Turismo de Portugal, chamado Turismo Militar, que apresenta roteiros históricos baseados em heróis portugueses.",
-    "imageDir": "castelo-de-elvas"
+    "imageDir": "castelo-de-elvas",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049774",
@@ -927,7 +1049,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Espor%C3%A3o",
     "summary": "torre acastelada perto de Reguengos de Monsaraz",
     "extract": "O Castelo de Esporão, também referido como Torre do Esporão ou Solar da Herdade do Esporão é uma estrutura arquitetónica de fortificação localizada na freguesia e no Município de Reguengos de Monsaraz, no Distrito de Évora, em Portugal.\nConsiderada como uma das mais importantes torres construídas na passagem da Idade Média para a Idade Moderna, constitui-se no antigo solar na herdade dos Mendes de Vasconcelos, família nobre em ascensão na Corte portuguesa, ligada à Casa de Bragança, na segunda metade do século XVI.\nEncontra-se classificado como Imóvel de Interesse Público por Decreto publicado em 18 de julho de 1957.\nHoje em dia é propriedade do empresário português José Roquette, descendente da família Holtreman.",
-    "imageDir": "castelo-de-esporao"
+    "imageDir": "castelo-de-esporao",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q66813690",
@@ -942,7 +1066,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Estremoz",
     "summary": "castelo em Estremoz, Portugal",
     "extract": "O Castelo de Estremoz localiza-se na freguesia de Estremoz (Santa Maria e Santo André), na cidade e no Município de Estremoz, Distrito de Évora, no Alentejo, em Portugal.\nErguido em posição dominante sobre uma colina ao norte da serra de Ossa, tinha como função primitiva a defesa desta raia alentejana. Constituindo-se posteriormente em uma das mais importantes praças-fortes da região do Alentejo, Estremoz esteve ligada a diversos dos mais decisivos episódios militares da História de Portugal. Deu o seu nome, ainda, a um dos mais atuantes destacamentos militares do país, com decisiva ação no Brasil colonial, o Regimento de Estremoz. É ainda de assinalar o facto de nele ter falecido, em 1336, a rainha Santa Isabel.\nÉ, a par de Elvas, uma das mais importantes praças-fortes do Alentejo, principalmente no período da Guerra da Restauração, altura em que serviu também de quartel-general das tropas portuguesas.\nDatado do século XII, o castelo foi alvo de vários melhoramentos ao longo do tempo, mas especialmente durante este período devido à sua localização próxima com o reino de Espanha. Durante o cerco a Elvas de 1658, e que terminaria com a Batalha das Linhas de Elvas no ano seguinte, foi de Estremoz que partiu a maioria do exército português de socorro.\nNo início do século XX, o conjunto do castelo, das muralhas da vila, a chamada Torre das Couraças e a Capela da Rainha Santa, foi classificado como Monumento Nacional a partir de Decreto publicado em 23 de Junho de 1910.\nEm 2014, o Castelo de Estremoz foi integrado num novo projeto do Ministério da Defesa Nacional, criado com o apoio do Turismo de Portugal, chamado Turismo Militar, que apresenta roteiros históricos baseados em heróis portugueses.",
-    "imageDir": "castelo-de-estremoz"
+    "imageDir": "castelo-de-estremoz",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5050388",
@@ -957,7 +1083,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Faria",
     "summary": "castelo medieval em Gilmonde, em ruínas",
     "extract": "O Castelo de Faria, também designado Povoado do Castelo de Faria e Ruínas do Castelo de Faria e estação arqueológica subjacente, foi um castelo medieval circundado por povoado da idade do ferro localizado na freguesia de Pereira (segundo a DGPC) ou de Gilmonde (segundo o SIPA), no Município de Barcelos, Distrito de Braga, em Portugal.\nUm dos mais importantes castelos do Entre Douro e Minho, foi erguido, isolado, no alto de uma elevação na vertente norte do monte da Franqueira, dominando o caminho que ligava Barcelos ao porto de Viana. Atualmente em ruínas, inscreve-se na Região Turística do Alto Minho.\nAs ruínas do Castelo de Faria e a estação arqueológica subjacente estão classificados como Monumento Nacional desde 1956.",
-    "imageDir": "castelo-de-faria"
+    "imageDir": "castelo-de-faria",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q17390064",
@@ -972,7 +1100,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Faro",
     "summary": "Castle in Faro, Portugal",
     "extract": "O Castelo de Faro, igualmente conhecido como Fábrica da Cerveja, localiza-se diante do largo de São Francisco, na cidade de mesmo nome, no Distrito de Faro, em Portugal. Os seus restos encontram-se integrados nas muralhas de Faro. Foi construído durante o período muçulmano, sendo então a alcáçova da povoação, e após a reconquista cristã passou a ser um castelo. No século XVIII foi profundamente modificado, com a construção de um quartel para o regimento de artilharia no seu interior. Na transição para o século XX entrou em profundo declínio devido ao desenvolvimento urbano de Faro, tendo sido vendido a particulares e reaproveitado como um núcleo industrial, processo que atingiu o seu auge com a construção da Fábrica de Cerveja em cima das ruínas do castelo, na década de 1930. Entre 1968 e 1992 o edifício foi ocupado pela Cervisul - Sociedade Distribuidora de Cerveja e Vinhos do Sul e pelo Regimento de Infantaria do Sul, e em 1998 foi adquirido pela Câmara Municipal, que fez obras de recuperação no ano seguinte. Tornou-se depois num centro cultural para exposições temporárias, e em 2013 passou a ser a sede da Associação Recreativa e Cultural de Músicos.",
-    "imageDir": "castelo-de-faro"
+    "imageDir": "castelo-de-faro",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049776",
@@ -987,7 +1117,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Folgosinho",
     "summary": "castelo medieval em Folgosinho, Portugal",
     "extract": "O Castelo de Folgosinho, na Beira Alta, localiza-se na vila e freguesia de Folgosinho, município de Gouveia, distrito da Guarda, em Portugal.\nNa vertente norte da serra da Estrela, o castelo é o ex libris da povoação, cuja fundação é atribuída ao lendário Viriato, que aqui teria nascido. Juntamente com o de Linhares e com o de Celorico, o castelo de Folgosinho compunha um triângulo defensivo do vale do rio Mondego.\nO Castelo de Folgosinho está classificado como Imóvel de Interesse Público desde 1936.",
-    "imageDir": "castelo-de-folgosinho"
+    "imageDir": "castelo-de-folgosinho",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049778",
@@ -1002,7 +1134,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Fontalva",
     "summary": "castelo medieval em Santa Eulália, município de Elvas",
     "extract": "O Castelo de Fontalva, no Alentejo, localiza-se no chamado Monte Velho de Fontalva, freguesia de Santa Eulália, município de Elvas, distrito de Portalegre, em Portugal.\nO Castelo de Fontalva encontra-se classificado como Imóvel de Interesse Público desde 1977.",
-    "imageDir": "castelo-de-fontalva"
+    "imageDir": "castelo-de-fontalva",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049782",
@@ -1017,7 +1151,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Freixo_de_Espada_%C3%A0_Cinta",
     "summary": "Monumento Nacional em Freixo de Espada à Cinta, Portugal",
     "extract": "O Castelo de Freixo de Espada à Cinta localiza-se na freguesia de Freixo de Espada à Cinta e Mazouco, no município de Freixo de Espada à Cinta, no distrito de Bragança, em Portugal.\nEncontra-se classificado como Monumento Nacional por Decreto publicado em 23 de Junho de 1910.",
-    "imageDir": "castelo-de-freixo-de-espada-a-cinta"
+    "imageDir": "castelo-de-freixo-de-espada-a-cinta",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q9705209",
@@ -1032,7 +1168,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Gaia",
     "summary": "building in Vila Nova de Gaia, Porto District, Portugal",
     "extract": "O Castelo de Gaia localizava-se na cidade e concelho de Vila Nova de Gaia, no distrito do Porto, em Portugal.\nO castelo localizava-se em posição dominante no alto da colina de Gaia.",
-    "imageDir": "castelo-de-gaia"
+    "imageDir": "castelo-de-gaia",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q18482086",
@@ -1047,7 +1185,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Giraldo",
     "summary": "castro nos arredores de Évora",
     "extract": "O Castelo de Giraldo, ou Castelo de Geraldo, localiza-se em Nossa Senhora de Guadalupe, na atual freguesia de Nossa Senhora da Tourega e Nossa Senhora de Guadalupe, no Município de Évora, Distrito de Évora, em Portugal.\nTrata-se de um castro, estrutura fortificada proto-histórica com origem na Idade do Bronze ou mesmo no Calcolítico, mas com vestígios de posteriores ocupações.\nApresenta planta subcircular e um perímetro exterior de 114 metros. A muralha que subsistiu até aos nossos dias terá pertencido a um período de ocupação medieval.\nFontes do século XV referem a fortificação, associando-a à presença de Geraldo Sem Pavor, guerreiro que conquistou Évora aos muçulmanos em 1165.\nAtualmente encontra-se em vias de classificação.\n\nDas suas muralhas avista-se a cidade de Évora e a aldeia de Valverde (Nossa Senhora da Tourega).",
-    "imageDir": "castelo-de-geraldo"
+    "imageDir": "castelo-de-geraldo",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q9705236",
@@ -1062,7 +1202,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Germanelo",
     "summary": "castelo em Penela, Portugal",
     "extract": "O Castelo de Germanelo, ou Castelo do Germanelo, localiza-se em Rabaçal, na atual na Freguesia de São Miguel, Santa Eufémia e Rabaçal, no Município de Penela, Distrito de Coimbra, em Portugal.\nNos arredores de Coimbra, a curta distância de Penela, no alto de uma colina, tal como o Castelo de Penela tinha a função genérica de defesa daquela então capital, pela linha do rio Mondego, das frequentes razias dos mouros na região Crónica dos Godos, por volta de 1180.[carece de fontes?]\nEstá classificado como Sítio de Interesse Público desde 2014.",
-    "imageDir": "castelo-de-germanelo"
+    "imageDir": "castelo-de-germanelo",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q2658498",
@@ -1077,7 +1219,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Guimar%C3%A3es",
     "summary": "castelo medieval em Guimarães",
     "extract": "O Castelo de Guimarães localiza-se na atual freguesia de Oliveira, São Paio e São Sebastião, cidade e município de Guimarães, no distrito de Braga, em Portugal.\nEm posição dominante, sobranceiro ao Campo de São Mamede, este monumento encontra-se ligado à fundação do Condado Portucalense e às lutas da independência de Portugal, sendo designado popularmente como berço da nacionalidade.\nClassificado como Monumento Nacional desde 1908, em 2007 foi eleito como uma das Sete maravilhas de Portugal.\nÉ um dos monumentos mais visitados do norte do país, sendo que em 2022 recebeu 302.761 entradas.",
-    "imageDir": "castelo-de-guimaraes"
+    "imageDir": "castelo-de-guimaraes",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q17390065",
@@ -1092,7 +1236,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Idanha-a-Nova",
     "summary": "castelo medieval em ruínas em Idanha-a-Nova, Portugal",
     "extract": "O Castelo de Idanha-a-Nova localiza-se na freguesia e no Município de Idanha-a-Nova, Distrito de Castelo Branco, em Portugal.\nA povoação de Idanha-a-Nova ergue-se num cabeço, aos pés do qual corre o rio Pônsul.",
-    "imageDir": "castelo-de-idanha-a-nova"
+    "imageDir": "castelo-de-idanha-a-nova",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049779",
@@ -1107,7 +1253,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Idanha-a-Velha",
     "summary": "muralhas medievais em Idanha-a-Velha, Portugal",
     "extract": "O que resta do Castelo de Idanha, também designado como Torre dos Templários, localiza-se em Idanha-a-Velha, na atual freguesia de Monsanto e Idanha-a-Velha, Município de Idanha-a-Nova, Distrito de Castelo Branco, em Portugal.\nNa realidade o conjunto de defesas da antiga vila, constituía-se, à época medieval, por uma torre e pela antiga cerca da povoação. O conjunto encontra-se compreendido nos testemunhos da estação arqueológica de Idanha-a-Velha, uma das importantes do país.\nO Conjunto Arquitectónico e Arqueológico de Idanha-a-Velha, no qual o Castelo de Idanha-a-Velha se insere, encontra-se classificado como Monumento Nacional por Decreto publicado em 31 de Dezembro de 1997.",
-    "imageDir": "castelo-de-idanha-a-velha"
+    "imageDir": "castelo-de-idanha-a-velha",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q98458464",
@@ -1122,7 +1270,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Lagos",
     "summary": "medieval castle in Lagos, Portugal",
     "extract": "O Castelo de Lagos, oficialmente conhecido como Muralhas e Torreões de Lagos e Cerca Urbana e Frente Fortificada de Lagos, é um monumento militar na cidade de Lagos, na região do Algarve, em Portugal. Embora o conjunto das estruturas defensivas da cidade seja conhecido como Castelo de Lagos, esta designação aplica-se principalmente à fortaleza conhecida como Castelo dos Governadores, enquanto que o restante perímetro, composto por vários lanços de muralha e baluartes, é conhecido como Muralhas de Lagos.\nA zona onde se situa a moderna cidade de Lagos, na margem direita da Ribeira de Bensafrim, poderá ter sido fundada pelos cartagineses em meados do primeiro milénio a.C. Esta povoação teria provavelmente algumas estruturas defensivas, mas a primeira fortificação equiparada a um castelo só terá sido construída durante a época islâmica, sendo provavelmente uma alcáçova, que poderá ter sido a origem do posterior Castelo dos Governadores. Após a reconquista, iniciou-se a construção de um conjunto de muralhas em redor da cidade, que nessa altura seria apenas a área entre a Porta de São Gonçalo, a Porta da Vila, o castelo e a futura Igreja de Santo António. As obras iniciaram-se durante o reinado de D. Afonso III (1248-1279), e foram provavelmente concluídas no século XIV.\nDevido à progressiva expansão urbana da cidade de Lagos, e à sua importância como parte dos Descobrimentos Portugueses, nos princípios do século XVI começou a ser pensada a construção de uma segunda linha de muralhas, que foram concluídas durante o reinado de D. João III (1502-1557). Este programa de obras também abrangeu o castelo em si, que foi ampliado, tendo ainda nesse século começado a ser utilizado como residência para os governadores, pelo que ficou popularmente conhecido como Castelo dos Governadores. A cidade e as suas defesas entraram numa fase de declínio após a Restauração da Independência, em 1640, e em 1755 foi devastada por um sismo, que destruiu o castelo e a maior parte das muralhas. o castelo nunca chegou a ser reconstruido, tendo acabado por ser parcialmente convertido num hospital. O conjunto das muralhas e do castelo foram elevados a Monumento Nacional em 1924, e na década de 1950 o Estado Novo realizou extensas obras de restauro, como parte das comemorações centenárias do Infante D. Henrique. Desde então, as muralhas e o castelo foram alvo de várias intervenções pontuais de conservação, destacando-se os trabalhos feitos nos anos 80 pela Direcção-Geral dos Edifícios e Monumentos Nacionais, e na década de 2010, pela Câmara Municipal de Lagos.",
-    "imageDir": "castelo-de-lagos"
+    "imageDir": "castelo-de-lagos",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049783",
@@ -1137,7 +1287,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Lamego",
     "summary": "castelo medieval em Lamego",
     "extract": "O Castelo de Lamego, no Ribadouro, localiza-se na freguesia de Lamego (Almacave e Sé), na cidade e no Município de Lamego, Distrito de Viseu em Portugal.\nA sua data de fundação foi em 1217 d.C. Castelo originalmente de montanha, atualmente os seus dois panos de muralha, interna e externa, inserem-se na malha urbana. Ex-libris da cidade, do alto de seus muros podem-se avistar as águas dos rios Coura, Balsemão e Varosa.\nEncontra-se classificado como Monumento Nacional por Decreto publicado em 23 de Junho de 1910.",
-    "imageDir": "castelo-de-lamego"
+    "imageDir": "castelo-de-lamego",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049786",
@@ -1152,7 +1304,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Lanhoso",
     "summary": "castelo em Póvoa de Lanhoso, Portugal",
     "extract": "O Castelo de Lanhoso, também referido como Castelo da Póvoa de Lanhoso, localiza-se na freguesia de Póvoa de Lanhoso, município do mesmo nome, distrito de Braga, em Portugal.\nEmbora bastante descaracterizado, é um dos mais imponentes castelos portugueses, contabilizando a expressiva marca de 100 mil visitantes entre 1996 e 2006,[carece de fontes?] um destaque no circuito turístico regional.\nErguido no topo do Monte do Pilar — o maior monólito granítico da península Ibérica —, isolado na divisa dos vales dos rios Ave e Cávado, dentro dos seus muros foi erguido um santuário seiscentista, utilizando a própria pedra das antigas muralhas. A meia encosta, no seu acesso, podem ser apreciados os vestígios de um antigo castro romanizado. A tradição refere que neste castelo se refugiou, por duas vezes, a condessa Teresa de Leão, mãe de D. Afonso Henriques (1112–1185).\nO Castelo de Lanhoso está classificado como Monumento Nacional desde 1910.",
-    "imageDir": "castelo-de-lanhoso"
+    "imageDir": "castelo-de-lanhoso",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q2969701",
@@ -1167,7 +1321,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Leiria",
     "summary": "castelo medieval em Leiria",
     "extract": "O Castelo de Leiria localiza-se freguesia de Leiria, Pousos, Barreira e Cortes, na cidade e município de Leiria, na Beira Litoral, em Portugal.\nEdificado em posição dominante a norte sobre a povoação e o rio Lis, este belo e imponente castelo medieval, onde se contrastam as belezas do património edificado e as da paisagem natural, é um dos \"ex-libris\" da cidade, recebendo, anualmente, entre 50 e 70 mil turistas. No ano 2011 recebeu a visita de 54303 pessoas. Considerado o melhor exemplo de transformação residencial de um castelo no país, o monumento compreende outras atracções arquitectónicas, históricas e arqueológicas.\nO Castelo de Leiria está classificado como Monumento Nacional desde 1910.",
-    "imageDir": "castelo-de-leiria"
+    "imageDir": "castelo-de-leiria",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049784",
@@ -1182,7 +1338,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Lindoso",
     "summary": "Castelo medieval em Lindoso, Portugal",
     "extract": "O Castelo de Lindoso localiza-se, na freguesia e lugar de Lindoso, município de Ponte da Barca, distrito de Viana do Castelo, em Portugal.\nSobranceiro a terras de Espanha, em posição dominante na serra Amarela, sobre a margem esquerda do rio Lima, este castelo foi erguido de raiz, na Idade Média, com a função de vigia, defesa e marco de soberania da fronteira. Embora não tenha estado envolvido em grandes batalhas ou episódios de história militar, é considerado como um dos mais importantes monumentos militares portugueses, pelas novidades técnicas e arquitetônicas que ensaiou, à época, no país.\nO Castelo de Lindoso está classificado como Monumento Nacional desde 1910.",
-    "imageDir": "castelo-de-lindoso"
+    "imageDir": "castelo-de-lindoso",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049785",
@@ -1197,7 +1355,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Linhares_da_Beira",
     "summary": "Castelo medieval em Linhares da Beira",
     "extract": "O Castelo de Linhares da Beira localiza-se na freguesia de Linhares, no município de Celorico da Beira, em Portugal.\nSituado num cabeço rochoso num contraforte a noroeste da serra da Estrela, domina o vale do rio Mondego. O seu passado mergulha nas lendas, sendo considerado uma das fortificações medievais mais importantes da Beira Alta Interior.\nO Castelo de Linhares da Beira está classificado como Monumento Nacional desde 1922.",
-    "imageDir": "castelo-de-linhares-da-beira"
+    "imageDir": "castelo-de-linhares-da-beira",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049787",
@@ -1212,7 +1372,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Longroiva",
     "summary": "Castelo em Longroiva",
     "extract": "O Castelo de Longroiva, na Beira Interior, localiza-se na freguesia e povoação de Longroiva, município de Meda, distrito da Guarda, em Portugal.\nErguido ao sul do rio Côa, em posição dominante sobre a vila, constitui-se em importante testemunho da arquitetura templária na região, inscrevendo-se na Região de Turismo Douro Sul.\nO Castelo de Longroiva está classificado como Monumento Nacional desde 1943.",
-    "imageDir": "castelo-de-longroiva"
+    "imageDir": "castelo-de-longroiva",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049788",
@@ -1227,7 +1389,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Loul%C3%A9",
     "summary": "castelo medieval em Loulé, Portugal",
     "extract": "O Castelo de Loulé é um monumento militar na cidade de Loulé, na região do Algarve, em Portugal. O castelo foi originalmente construído durante a ocupação islâmica, que se iniciou em 715, tendo provavelmente sucedido a uma fortaleza romana. Foi definitivamente tomado pelas forças cristãs nos finais do século XIII, durante o período da Reconquista, tendo depois sido alvo de grandes obras de reconstrução e ampliação, embora tenham permanecido alguns vestígios das estruturas defensivas islâmicas. Grande parte do castelo foi progressivamente desaparecendo devido à expansão urbana, restando apenas algumas torres e lanços das muralhas, que foram classificados como Monumento Nacional em 1924. Parte da antiga alcaidaria do castelo foi ocupada pelo Museu Municipal de Arqueologia.",
-    "imageDir": "castelo-de-loule"
+    "imageDir": "castelo-de-loule",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q6761778",
@@ -1242,7 +1406,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Marialva",
     "summary": "castelo medieval em Marialva",
     "extract": "O Castelo de Marialva, na Beira Alta, localiza-se na Vila e Freguesia de Marialva, Município de Mêda, Distrito da Guarda, em Portugal.\nNo topo de um penedo granítico, em posição dominante sobre a vila e a planície cortada pela antiga estrada romana, encontra-se estrategicamente colocado na região fronteiriça do rio Côa (Ribacôa). Verdadeiro complexo medieval, suas raízes mergulham no passado histórico de Portugal, ligando-se ao trágico destino dos Távoras.\nO Castelo de Marialva está classificado como Monumento Nacional desde 1978.",
-    "imageDir": "castelo-de-marialva"
+    "imageDir": "castelo-de-marialva",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q3811187",
@@ -1257,7 +1423,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Marv%C3%A3o",
     "summary": "castelo medieval em Marvão",
     "extract": "O Castelo de Marvão é uma fortaleza medieval situada na vila de Marvão, distrito de Portalegre, Portugal. Está classificado como Monumento Nacional desde 1922. O castelo inscreve-se no Parque Natural da Serra de São Mamede, na vertente norte da serra, em posição dominante sobre a vila e estratégica sobre a linha da raia, controlando, no passado, a passagem do rio Sever, afluente do rio Tejo. Esse fato garantiu-lhe a atenção de diversos monarcas, expressa em diversas campanhas de remodelação, que deram ao monumento o seu aspecto atual.",
-    "imageDir": "castelo-de-marvao"
+    "imageDir": "castelo-de-marvao",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q2969870",
@@ -1272,7 +1440,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Melga%C3%A7o",
     "summary": "castelo medieval em Melgaço",
     "extract": "O Castelo de Melgaço localiza-se na freguesia de Vila (actualmente União das Freguesias de Vila e Roussas), município de Melgaço, distrito de Viana do Castelo, em Portugal.\nPrincipal defesa raiana do Alto Minho no século XII, constitui-se na sentinela mais setentrional de Portugal, no trecho onde o rio Minho inicia a sua função fronteiriça, vigiando a travessia para a Galiza.\nO Castelo de Melgaço está classificado como Monumento Nacional desde 1910.",
-    "imageDir": "castelo-de-melgaco"
+    "imageDir": "castelo-de-melgaco",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q9705447",
@@ -1287,7 +1457,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Messejana",
     "summary": "castelo atualmente em ruínas em Messejana, no Município de Aljustrel",
     "extract": "O Castelo de Messejana é um monumento militar situado na vila e na freguesia de Messejana, no Município de Aljustrel, na região do Alentejo, em Portugal. Situa-se numa colina a norte da povoação, nas imediações da Igreja Matriz de Nossa Senhora dos Remédios.\nFoi provavelmente construído durante a época muçulmana e reconquistado em 1235. Pertenceu à Ordem de Santiago até ao século XVI, tendo depois sido abandonado e utilizado como pedreira pelas populações, chegando a um avançado estado de ruína. Da antiga estrutura restou apenas uma torre, muito arruinada, e socalcos no terreno, que provavelmente seriam parte das muralhas. \nApesar da sua condição de ruína, o Castelo de Messejana é considerado como um importante monumento da freguesia, devido ao seu significado histórico.",
-    "imageDir": "castelo-de-messejana"
+    "imageDir": "castelo-de-messejana",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q3817607",
@@ -1302,7 +1474,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Miranda_do_Douro",
     "summary": "castelo medieval em Miranda do Douro",
     "extract": "O Castelo de Miranda do Douro, em Trás-os-Montes, localiza-se na freguesia, cidade e município do mesmo nome, distrito de Bragança, em Portugal.\nCastelo de fronteira ligado aos vizinhos de Castelo de Milhão e o Castelo de Santulhão, ambos já desaparecidos, e o Castelo de Oleiros, em ruína, assim como ao, mais distante, de Bragança, constituíam, no conjunto, o chamado núcleo duro do Nordeste transmontano. Atualmente inscreve-se na Área Turístico Promocional das Montanhas. Na Baixa Idade Média o núcleo durofoi formado pelo Castelo de Outeiro, o Castelo de Algoso, o Penas Roias, o Mogadouro e o Bragança, apoiado pela pequena fortaleza de Vimioso. \nO Castelo de Miranda do Douro encontra-se classificado como imóvel de interesse público desde 1955.",
-    "imageDir": "castelo-de-miranda-do-douro"
+    "imageDir": "castelo-de-miranda-do-douro",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049789",
@@ -1317,7 +1491,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Mirandela",
     "summary": "castelo medieval em Mirandela de que restam vestígios",
     "extract": "O Castelo de Mirandela, de que subsistem vestígios como a Porta de Santo António, localizou-se na cidade, na freguesia e no Município de Mirandela, Distrito de Bragança, na antiga província de Alto Trás-os-Montes,  em Portugal.\nEm posição dominante sobre a povoação medieval, nas margem do rio Tua, da sua estrutura, tragada pelo progresso, resta hoje apenas a Porta de Santo António, um dos cartões-postais da cidade.\nO que resta do Castelo de Mirandela está classificado como Imóvel de Interesse Público desde 1955.",
-    "imageDir": "castelo-de-mirandela"
+    "imageDir": "castelo-de-mirandela",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049790",
@@ -1332,7 +1508,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Mogadouro",
     "summary": "castelo medieval de Mogadouro",
     "extract": "O Castelo de Mogadouro, em Trás-os-Montes, localiza-se na freguesia de Mogadouro, Valverde, Vale de Porco e Vilar de Rei, na vila e município de Mogadouro, no distrito de Bragança, em Portugal.\nNa vertente norte da serra de Mogadouro, a antiga vila e seu castelo constituíram, nos alvores da nacionalidade, um importante ponto estratégico sobre a linha lindeira. Comenda da Ordem dos Templários, posteriormente sucedida pela Ordem de Cristo, atualmente inclui-se na Área Turístico-Promocional das Montanhas.\nO castelo foi classificado como Monumento Nacional por Decreto publicado em 2 de Janeiro de 1945.",
-    "imageDir": "castelo-de-mogadouro"
+    "imageDir": "castelo-de-mogadouro",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q9705463",
@@ -1347,7 +1525,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Monforte_(Monforte)",
     "summary": "castelo medieval de Monforte de que sobrevivem algumas estruturas",
     "extract": "O Castelo de Monforte, também referido como Castelo e cerca urbana de Monforte, localiza-se na Freguesia e no Município de Monforte, Distrito de Portalegre, no Alto Alentejo, em Portugal.\nEm posição dominante sobre a povoação que lhe dá o nome, juntamente com os castelos de Veiros, Campo Maior e de Ouguela, tinham como primitiva função a defesa da fronteira com os Mouros e com Castela. Atualmente a povoação inscreve-se na Área Turístico-Promocional de Planícies.",
-    "imageDir": "castelo-de-monforte"
+    "imageDir": "castelo-de-monforte",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q17390068",
@@ -1362,7 +1542,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Monforte_(Figueira_de_Castelo_Rodrigo)",
     "summary": "ruínas do Castelo dos Mouros, em Figueira de Castelo Rodrigo, Portugal",
     "extract": "O Castelo de Monforte localiza-se no lugar de Bizarril, freguesia de Colmeal, no concelho de Figueira de Castelo Rodrigo, em Portugal.\nEm terras de Riba-Côa, o castelo terá sido construído no século XII. Encontra-se mencionado do Tratado de Alcanizes (1297) e, tendo perdido importância estratégica devido ao novo traçado da fronteira, veio a ser abandonado.\nNas Cortes de Évora de 1414, era referido como \"local ermo\" pelos representantes de Castelo Rodrigo, não aparecendo já no Livro das Fortalezas de Duarte de Armas, do início do século XVI.\nAtualmente encontra-se em ruínas.",
-    "imageDir": "castelo-de-monforte-2"
+    "imageDir": "castelo-de-monforte-2",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049791",
@@ -1377,7 +1559,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Monforte_(Chaves)",
     "summary": "castelo medieval em Águas Frias, Chaves, Portugal",
     "extract": "O Castelo de Monforte, também referido como Castelo de Monforte de Rio Livre, em Trás-os-Montes, localiza-se na freguesia de Águas Frias, povoação de Monforte, município de Chaves, distrito de Vila Real, em Portugal.\nAlbergou as principais instituições do antigo concelho de Monforte de Rio Livre, que existiu entre 1273 e 1853.\nErgue-se sobre uma das escarpas da serra do Brunheiro, em posição dominante sobre a povoação e a ribeira de Águas Livres.\nO Castelo de Monforte está classificado como Monumento Nacional desde 1950.",
-    "imageDir": "castelo-de-monforte-chaves"
+    "imageDir": "castelo-de-monforte-chaves",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049792",
@@ -1392,7 +1576,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Monsanto",
     "summary": "castelo medieval em Monsanto, Portugal",
     "extract": "O Castelo de Monsanto, na Beira Baixa, localiza-se em Monsanto na atual freguesia de Monsanto e Idanha-a-Velha, no Município de Idanha-a-Nova, Distrito de Castelo Branco, em Portugal.\nNo topo granítico do monte de Monsanto, à margem direita do rio Pônsul este castelo raiano medieval domina a Aldeia Histórica, conjunto arquitectónico no qual se destacam algumas casas senhoriais brasonadas e templos, como as ruínas da Capela de São Miguel em estilo românico.\nO castelo e as muralhas de Monsanto encontram-se classificados como Monumento Nacional por Decreto publicado em 29 de Setembro de 1948.",
-    "imageDir": "castelo-de-monsanto"
+    "imageDir": "castelo-de-monsanto",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049794",
@@ -1407,7 +1593,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Monsaraz",
     "summary": "castelo em Monsaraz, Portugal",
     "extract": "O Castelo de Monsaraz, no Alentejo, localiza-se na freguesia de Monsaraz, município de Reguengos de Monsaraz, distrito de Évora, em Portugal.\nVizinho ao rio Guadiana e ao moderno espelho d'água da Barragem de Alqueva, ergue-se sobre o monte Monsaraz, dominando a vila medieval e a fronteira com a Espanha. A sua arquitectura militar mescla elementos medievais e seiscentistas.\nAs fortificações e todo o conjunto intramuros da vila de Monsaraz encontram-se classificados como Monumento Nacional por Decreto publicado em 2 de Janeiro de 1946.",
-    "imageDir": "castelo-de-monsaraz"
+    "imageDir": "castelo-de-monsaraz",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q6904195",
@@ -1422,7 +1610,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Montalegre",
     "summary": "castelo medieval em Montalegre",
     "extract": "O Castelo de Montalegre localiza-se na freguesia Montalegre e Padroso, município de Montalegre, Distrito de Vila Real, em Portugal.\nNo topo de um monte granítico, de onde se descortinam as serras do Gerês (a Oeste) e do Larouco (a Leste) e o curso do rio Cávado (a Norte), o castelo domina a povoação, a poucos quilómetros da fronteira com a Galiza. Juntamente com o Castelo da Piconha, próximo de Tourém, e o Castelo de Portelo, em Sendim (Padornelos).\nO Castelo de Montalegre está classificado como Monumento Nacional desde 1910.",
-    "imageDir": "castelo-de-montalegre"
+    "imageDir": "castelo-de-montalegre",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q9705508",
@@ -1437,7 +1627,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Montalv%C3%A3o",
     "summary": "castelo medieval em Montalvão",
     "extract": "O Castelo de Montalvão localiza-se na povoação e na Freguesia de Montalvão, no Município de Nisa, Distrito de Portalegre, no Alentejo, em Portugal.\nÀ época da Reconquista cristã da Península Ibérica integrava a chamada Linha do Tejo.\nO que resta do Castelo de Montalvão está classificado como Monumento de Interesse Público desde 2012.",
-    "imageDir": "castelo-de-montalvao"
+    "imageDir": "castelo-de-montalvao",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049796",
@@ -1452,7 +1644,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Montemor-o-Novo",
     "summary": "castelo medieval em Montemor-o-Novo",
     "extract": "O Castelo de Montemor-o-Novo localizava-se na antiga freguesia de Santiago do Castelo e hoje na freguesia de Nossa Senhora da Vila, Nossa Senhora do Bispo e Silveiras, município de Montemor-o-Novo, distrito de Évora, no Alentejo, em Portugal.\nEm posição dominante sobre o outeiro mais alto da região, o castelo abrigava originalmente nos seus muros a povoação que, desenvolvendo-se, expandiu-se pela encosta a Norte. Documentos históricos confirmam que neste castelo Vasco da Gama ultimou os planos para a sua viagem à Índia.[carece de fontes?]\nO Castelo de Montemor-o-Novo, abrangendo as muralhas e os imóveis que se encontram dentro delas encontra-se classificado como monumento nacional pelo Decreto n.º 38 147, de 5 de janeiro de 1951.",
-    "imageDir": "castelo-de-montemor-o-novo"
+    "imageDir": "castelo-de-montemor-o-novo",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q66943448",
@@ -1467,7 +1661,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Montemor-o-Velho",
     "summary": "castelo em Montemor-o-Velho, Portugal",
     "extract": "O Castelo de Montemor-o-Velho localiza-se na freguesia de Montemor-o-Velho e Gatões, Vila e Município de Montemor-o-Velho, Distrito de Coimbra, em Portugal.\nEm posição dominante sobre a vila, na margem direita do rio Mondego, à época junto à sua foz, no contexto da Reconquista cristã da Península Ibérica, constituiu-se em um ponto estratégico na defesa da linha fronteiriça do baixo Mondego, em particular da região de Coimbra. Foi, por essa razão, a principal fortificação da região, à época.\nO Castelo de Montemor-o-Velho e a Igreja de Santa Maria da Alcáçova que está no seu interior encontram-se classificados como Monumento Nacional por Decreto publicado em 23 de Junho de 1910.",
-    "imageDir": "castelo-de-montemor-o-velho"
+    "imageDir": "castelo-de-montemor-o-velho",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049797",
@@ -1482,7 +1678,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Mon%C3%A7%C3%A3o",
     "summary": "fortaleza em Monção",
     "extract": "O Castelo de Monção, ou Fortaleza de Monção, no Minho, localiza-se na freguesia de Monção e Troviscoso, vila e município de Monção, distrito de Viana do Castelo, em Portugal.\nErguido na margem esquerda, a jusante de Melgaço, tinha como função primitiva defender neste trecho a passagem do rio Minho.\nO Castelo de Monção está classificado como Monumento Nacional desde 1910.",
-    "imageDir": "castelo-de-moncao"
+    "imageDir": "castelo-de-moncao",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049798",
@@ -1497,7 +1695,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Moreira_de_Rei",
     "summary": "castelo medieval  em Moreira de Rei em ruínas",
     "extract": "O Castelo de Moreira de Rei, na Beira Alta, localiza-se na freguesia e vila de Moreira de Rei, município de Trancoso, distrito da Guarda, em Portugal.\nImplantado num afloramento granítico dominante sobre a antiga povoação e a região do vale do rio Côa, não foi abrangido pelas reformas góticas entre o meado do século XIII e o início do XIV. Abandonado pelos séculos, caiu em ruínas, carecendo de maior atenção por parte do poder público na atualidade.\nO que subsiste do Castelo de Moreira de Rei está classificado como Monumento Nacional desde 1932.",
-    "imageDir": "castelo-de-moreira-de-rei"
+    "imageDir": "castelo-de-moreira-de-rei",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049799",
@@ -1512,7 +1712,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Moura",
     "summary": "Castelo medieval em Moura",
     "extract": "O Castelo de Moura, no Alentejo, localiza-se na freguesia de Moura (Santo Agostinho e São João Baptista) e Santo Amador, município de Moura, distrito de Beja, em Portugal.\nErguido em posição dominante sobre a vila, na confluência da ribeira de Brenhas com a ribeira de Lavandeira, tributárias do rio Ardila, à margem esquerda do rio Guadiana, inscreve-se atualmente em área de Reserva Natural. A sua defesa era complementada, a partir do século XIII, pelas atalaias da Cabeça Gorda, da Cabeça Magra, de Porto Mourão e de Alvarinho. Esta vila está ligada à História do Brasil pela ação do Regimento de Moura, em tempos coloniais.\nO Castelo de Moura está classificado como Imóvel de Interesse Público desde 1944.",
-    "imageDir": "castelo-de-moura"
+    "imageDir": "castelo-de-moura",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049802",
@@ -1527,7 +1729,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Mour%C3%A3o",
     "summary": "castelo medieval em Mourão",
     "extract": "O Castelo de Mourão, também referido como Castelo e Forte de Mourão, no Alentejo, localiza-se na freguesia, povoação e município do mesmo nome, distrito de Évora, em Portugal.\nCompreendido no território à margem esquerda do rio Guadiana, ergue-se em posição dominante sobre a antiga vila medieval. De seus muros descortinam-se a planície envolvente com o Castelo de Monsaraz a norte, e a fronteira com a Espanha a este.\nEncontra-se classificado como Imóvel de Interesse Público por Decreto publicado em 18 de Julho de 1957.",
-    "imageDir": "castelo-de-mourao"
+    "imageDir": "castelo-de-mourao",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049803",
@@ -1542,7 +1746,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_M%C3%A9rtola",
     "summary": "castelo medieval em Mértola, Portugal",
     "extract": "O Castelo de Mértola localiza-se na freguesia, vila e município de Mértola, distrito de Beja, no Alentejo, em Portugal. O complexo do castelo corresponde a dois elementos distintos: a cintura de muralhas em redor do centro histórico medieval, e a alcáçova, situada no interior deste recinto.\nFoi construído durante o período de domínio muçulmano da Península Ibérica, sucedendo às antigas defesas romanas da cidade. Mértola foi reconquistada pelas forças cristãs em 1238, e posteriormente foi reconstruído o castelo, embora reutilizando as estruturas militares islâmicas. Em 1951, o castelo foi classificado como Monumento Nacional.",
-    "imageDir": "castelo-de-mertola"
+    "imageDir": "castelo-de-mertola",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049804",
@@ -1557,7 +1763,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_M%C3%B3s",
     "summary": "castelo medieval em Mós, no município de Torre de Moncorvo",
     "extract": "O Castelo de Mós localiza-se na povoação e na freguesia de Mós, no Município de Torre de Moncorvo, Distrito de Bragança, em Portugal.\nErguido numa pequena elevação coberta por vegetação e árvores a Norte da povoação, dominava a chamada Calçada de Mós, um antigo eixo viário na região. Existe um Castelo de Mos em Mos, Vigo, Galiza.\nEstá classificado como Imóvel de Interesse Público desde 1955.",
-    "imageDir": "castelo-de-mos"
+    "imageDir": "castelo-de-mos",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q4993721",
@@ -1572,7 +1780,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Noudar",
     "summary": "castelo medieval em Noudar, no município de Barrancos",
     "extract": "O Castelo de Noudar localiza-se na antiga vila de mesmo nome, freguesia e município de Barrancos, distrito de Beja, no Alentejo, em Portugal.\nSentinela da raia com Espanha, ergue-se isolado numa elevação escarpada dominando a planície circundante e a ribeira de Múrtega e o rio Ardila, na margem esquerda do rio Guadiana. Testemunhou, juntamente com os castelos de Alandroal, Moura, Serpa e Veiros, a ação da Ordem de Avis na região.\nO Castelo de Noudar está classificado como Monumento Nacional desde 1910.",
-    "imageDir": "castelo-de-noudar"
+    "imageDir": "castelo-de-noudar",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q2970163",
@@ -1587,7 +1797,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Num%C3%A3o",
     "summary": "building in Vila Nova de Foz CÃ´a Municipality, Guarda District, Portugal",
     "extract": "O Castelo de Numão localiza-se na vila e freguesia de Numão, município de Vila Nova de Foz Côa, distrito da Guarda, em Portugal.\nNa vertente este da serra da Lapa, inscrito atualmente no Parque Arqueológico do Vale do Côa, de seus muros avistam-se os castelos de Ansiães, Castelo Melhor, Castelo Rodrigo, Ranhados e Penedono.\nO Castelo de Numão está classificado como Monumento Nacional desde 1910.",
-    "imageDir": "castelo-de-numao"
+    "imageDir": "castelo-de-numao",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049808",
@@ -1602,7 +1814,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Oleiros",
     "summary": "building in Mogadouro, Bragança District, Portugal",
     "extract": "O Castelo de Oleiros, também referido como Povoado do Castelo de Oleiros, localiza-se na freguesia de Urrós, Município de Mogadouro, Distrito de Bragança, em Portugal.\nEstá classificado como Imóvel de Interesse Público desde 1990.\nNa cota de 482 metros acima do nível do mar, acede-se saindo de Mogadouro pela EN 221 durante cerca de 20 km, tomando depois a EN 221-7 durante 3 km e virando a esquerda para estradão.",
-    "imageDir": "castelo-de-oleiros"
+    "imageDir": "castelo-de-oleiros",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049807",
@@ -1617,7 +1831,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Ouguela",
     "summary": "castelo medieval em Ouguela, Portugal",
     "extract": "O Castelo de Ouguela, no Alentejo, ergue-se na antiga vila de Ouguela, hoje parte da freguesia de São João Baptista, município de Campo Maior, distrito de Portalegre, em Portugal.\nErguido sobre uma escarpa, na margem direita do rio Xévora, está próximo da raia com a Espanha, vendo-se dos seus muros a fortificação espanhola de Alburquerque. Reconstruído por D. Dinis (1279-1325), recebeu linhas abaluartadas do reinado de D. João IV (1640-1656). \nIntegrando a Área Turístico-Promocional de Planícies, o Castelo de Ouguela encontra-se classificado como Imóvel de Interesse Público desde 1943.",
-    "imageDir": "castelo-de-ouguela"
+    "imageDir": "castelo-de-ouguela",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q30626518",
@@ -1632,7 +1848,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Ourique",
     "summary": "Ourique - Portugal - Arquitectura Militar / Castelo",
     "extract": "O Castelo de Ourique é um antigo monumento militar, situado na vila de Ourique, na região do Alentejo, em Portugal. Foi construído durante a época muçulmana, no mesmo local onde poderá ter existido originalmente um castro. Durante o período da reconquista terá sido um importante posto militar, parte de uma rede de defesas a Norte das serras algarvias. Foi reconstruído entre os séculos XIII e XIV, mas nesta época já tinha perdido grande parte da sua importância, passando a servir apenas para a defesa da povoação. Os últimos vestígios da citadela foram demolidos na década de 1960, e no seu lugar foi instalado um miradouro e uma torre de água.",
-    "imageDir": "castelo-de-ourique"
+    "imageDir": "castelo-de-ourique",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q7111322",
@@ -1647,7 +1865,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Our%C3%A9m",
     "summary": "castelo em Ourém",
     "extract": "O Castelo de Ourém, também conhecido como Paço dos Condes de Ourém, localiza-se na cidade de mesmo nome, freguesia de Nossa Senhora das Misericórdias, município de Ourém, distrito de Santarém, em Portugal.\nEm posição dominante sobre a vila medieval e a ribeira de Seiça, é considerado um dos mais belos castelos portugueses.\nO Castelo de Ourém está classificado como Monumento Nacional desde 1910.",
-    "imageDir": "castelo-de-ourem"
+    "imageDir": "castelo-de-ourem",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q129107735",
@@ -1662,7 +1882,9 @@
     "wikipedia": null,
     "summary": "castelo desaparecido, implantado em local estratégico, sobranceiro à zona de confluência entre o rio Tejo e o Zêzere",
     "extract": null,
-    "imageDir": "castelo-de-ozezere"
+    "imageDir": "castelo-de-ozezere",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q8342497",
@@ -1677,7 +1899,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Paderne",
     "summary": "castelo medieval árabe de Paderne, Portugal",
     "extract": "O Castelo de Paderne é um monumento militar na freguesia de Paderne, pertencente ao Município de Albufeira, na região do Algarve, em Portugal. O primeiro edifício militar naquele sítio terá sido um castro lusitano, conquistado depois pelos romanos, mas o castelo em si só foi construído nos séculos XI ou XII, durante o período muçulmano. A fortaleza foi tomada em 1248, como parte da Reconquista cristã do Algarve. Ficou num estado de semi-abandono após a povoação de Paderne ter mudado para um novo local no século XVI. Foi gravemente danificado durante o Sismo de 1755, embora só tenha sido oficialmente encerrado em 1858. Foi classificado como Imóvel de Interesse Público em 1971. É considerado um dos símbolos do município, e um dos mais importantes exemplares da arquitetura militar islâmica na Península Ibérica. No interior destaca-se uma ermida dedicada a Nossa Senhora da Assunção.",
-    "imageDir": "castelo-de-paderne"
+    "imageDir": "castelo-de-paderne",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049812",
@@ -1692,7 +1916,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Palmela",
     "summary": "castelo medieval em Palmela, Portugal",
     "extract": "O Castelo de Palmela localiza-se na vila, freguesia e município do mesmo nome, distrito de Setúbal, em Portugal.\nNa península de Setúbal, no contraforte Leste da serra da Arrábida, está situado entre os estuários do rio Tejo e do rio Sado, próximo à foz deste último. Inscreve-se na chamada Costa Azul, no Parque Natural da Arrábida. Do alto da sua torre de menagem, em dias claros a vista se descortina até Lisboa.\nO Castelo de Palmela está classificado como Monumento Nacional desde 1910.",
-    "imageDir": "castelo-de-palmela"
+    "imageDir": "castelo-de-palmela",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049809",
@@ -1707,7 +1933,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Pena_de_Aguiar",
     "summary": "castelo medieval em Vila Pouca de Aguiar",
     "extract": "O Castelo de Pena de Aguiar, também referido como Castelo de Aguiar ou Castelo de Aguiar da Pena, localiza-se na aldeia de Castelo, freguesia de Telões, município de Vila Pouca de Aguiar, distrito de Vila Real, em Portugal.\nEm posição dominante sobre um penedo granítico no flanco este da serra do Alvão, liga-se à Reconquista cristã da Península Ibérica tendo sido cabeça das terras de Aguiar em tempos medievais. Nesse âmbito, a defesa proporcionada pelo castelo era complementada por algumas atalaias, nomeadamente as de Capeludos, Rebordochão e Portela de Santa Eulália, que à época integrava a circunscrição de Vila Pouca de Aguiar.\nO Castelo de Pena de Aguiar está classificado como Monumento Nacional desde 1982.",
-    "imageDir": "castelo-de-pena-de-aguiar"
+    "imageDir": "castelo-de-pena-de-aguiar",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q9705653",
@@ -1722,7 +1950,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Penacova",
     "summary": "antigo castelo medieval actualmente inexistente",
     "extract": "O Castelo de Penacova localizava-se na vila, freguesia e concelho de mesmo nome, Distrito de Coimbra, em Portugal.",
-    "imageDir": "castelo-de-penacova"
+    "imageDir": "castelo-de-penacova",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q74316986",
@@ -1737,7 +1967,9 @@
     "wikipedia": null,
     "summary": null,
     "extract": null,
-    "imageDir": "castelo-de-penafiel"
+    "imageDir": "castelo-de-penafiel",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049810",
@@ -1752,7 +1984,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Penamacor",
     "summary": "castelo medieval de Penamacor",
     "extract": "O Castelo de Penamacor, também referido como Castelo e cerca urbana de Penamacor\ne Fortaleza de Penamacor, localiza-se na vila, freguesia e município de Penamacor, no distrito de Castelo Branco, província da Beira Baixa, região do Centro (Região das Beiras) e sub-região da Beira Interior Sul, em Portugal.\nCastelo templário, na linde beirã, ergue-se num cabeço rochoso entre a ribeira de Ceife e a ribeira das Taliscas, afluentes do rio Ponsul, que, por sua vez, desagua no rio Tejo.\nEm 2013 foi classificado como monumento nacional.",
-    "imageDir": "castelo-de-penamacor"
+    "imageDir": "castelo-de-penamacor",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049813",
@@ -1767,7 +2001,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Penas_Roias",
     "summary": "castelo medieval em Penas Roias, Portugal",
     "extract": "O Castelo de Penas Roias localiza-se na povoação e na freguesia de Penas Roias, Município de Mogadouro, Distrito de Bragança, em Portugal.\nAntigo castelo da Ordem dos Templários na região de Trás os Montes e Alto Douro, integrava, à época da constituição da nacionalidade portuguesa, juntamente com os de Algoso, Mogadouro, Miranda do Douro, Vimioso e Bragança, o chamado núcleo duro do Nordeste transmontano. \nCompreendido na Área Turístico-Promocional de Montanhas, dele se contempla a Igreja Matriz de Santa Maria de Azinhoso e, ao longe, Mogadouro.\nCom a cerca da vila de há muito desaparecida, o castelo encontra-se classificado como Monumento Nacional por Decreto publicado em 20 de Março de 1945.",
-    "imageDir": "castelo-de-penas-roias"
+    "imageDir": "castelo-de-penas-roias",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049815",
@@ -1782,7 +2018,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Penedono",
     "summary": "castelo medieval em Penedono",
     "extract": "O Castelo de Penedono, também referido como Castelo do Magriço, na Beira Alta, localiza-se, freguesia de Penedono e Granja, na vila e município de Penedono, no distrito de Viseu, em Portugal.\nEm posição dominante sobre a povoação, esta pequena estrutura medieval constitui um misto de fortificação defensiva e de residência senhorial.\nO Castelo de Penedono está classificado como Monumento Nacional desde 1910.",
-    "imageDir": "castelo-de-penedono"
+    "imageDir": "castelo-de-penedono",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q7162548",
@@ -1797,7 +2035,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Penela",
     "summary": "castelo em Penela, Portugal",
     "extract": "O Castelo de Penela localiza-se na freguesia de São Miguel, Santa Eufémia e Rabaçal, na vila e município de Penela, Distrito de Coimbra, em Portugal.\nEm posição dominante sobre uma colina calcária, integrava a chamada linha do Mondego, e tinha como função a de guarda avançada de Coimbra, à época da Reconquista. Juntamente com o Castelo de Montemor-o-Velho, constituem o testemunho mais expressivo de seu tipo, do período, na região. De seus muros descortina-se uma bela vista da povoação, e ao longe, a Leste, da serra da Lousã.\nEncontra-se classificado como Monumento Nacional desde 1910.",
-    "imageDir": "castelo-de-penela"
+    "imageDir": "castelo-de-penela",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q9705656",
@@ -1812,7 +2052,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Penha_Garcia",
     "summary": "Castelo medieval em Penha Garcia",
     "extract": "O Castelo de Penha Garcia localiza-se na freguesia de Penha Garcia, Município de Idanha-a-Nova, Distrito de Castelo Branco, em Portugal.\nCastelo raiano, em posição dominante na serra do Ramiro, sobranceiro ao vale do rio Pônsul (em sua margem direita), na vertente sul da serra de Penha Garcia, uma ramificação da serra da Malcata, dos restos de seus muros usufrui-se a vista da campina envolvente até ao vale Feitoso com sua barragem.",
-    "imageDir": "castelo-de-penha-garcia"
+    "imageDir": "castelo-de-penha-garcia",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q7195878",
@@ -1827,7 +2069,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Pinhel",
     "summary": "castelo medieval em Pinhel",
     "extract": "O Castelo de Pinhel localiza-se na cidade, freguesia e município de Pinhel, no distrito da Guarda, em Portugal.\nFortificação da raia beirã com o reino de Leão em tempos medievais, ergue-se em posição dominante na Serra da Marofa, à margem esquerda do rio Côa.\nO Castelo de Pinhel, juntamente com o Pelourinho de Pinhel, são os símbolos mais importantes da Cidade Falcão.\nO Castelo de Pinhel está classificado como Monumento Nacional desde 1950.",
-    "imageDir": "castelo-de-pinhel"
+    "imageDir": "castelo-de-pinhel",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049816",
@@ -1842,7 +2086,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Pirescoxe",
     "summary": "mansão acastelada em Pirescoxe, Loures, Portugal",
     "extract": "O Castelo de Pirescoxe constitui uma edificação de origem medieval, localizada no lugar de Pirescoxe (também referido como \"Pirescouxe\", \"Pirescoche\" ou \"Piriscouxe\"), em Santa Iria de Azoia, município de Loures, Portugal. Apesar de, popularmente, referido como \"castelo\", não se trata na realidade de uma fortificação, mas sim de um paço senhorial acastelado, típico da nobreza de Portugal em finais da Idade Média.\nErguido em posição dominante sobre uma espécie de promontório donde se descortina o curso do rio Tejo, o paço situava-se outrora numa zona predominantemente rural. A área foi entretanto urbanizada e, hoje, o Castelo de Pirescoxe situa-se no centro de uma urbanização construída na década de 1990, estando rodeado por um pequeno parque urbano.",
-    "imageDir": "castelo-de-pirescoxe"
+    "imageDir": "castelo-de-pirescoxe",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5050407",
@@ -1857,7 +2103,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Pombal",
     "summary": "castelo medieval em Pombal",
     "extract": "O Castelo de Pombal localiza-se na freguesia, cidade e município de Pombal, distrito de Leiria, em Portugal.\nEm posição dominante sobre um maciço rochoso à margem do rio Arunca, este castelo templário teve expressivo papel na defesa da região à época da afirmação da nacionalidade e posteriormente, na consolidação do condado.\nO Castelo de Pombal está classificado como Monumento Nacional desde 1910.",
-    "imageDir": "castelo-de-pombal"
+    "imageDir": "castelo-de-pombal",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q7231504",
@@ -1872,7 +2120,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Portalegre",
     "summary": "building in Portalegre, Portalegre District, Portugal",
     "extract": "O Castelo de Portalegre localiza-se na freguesia da Sé e São Lourenço, cidade e município de Portalegre, Portugal.\nEm posição dominante sobre a povoação, destaca-se pelo contraste entre a cor escura das suas muralhas e o branco da cal das casas em redor. A sua primitiva função era a defesa da raia alentejana, frente a Castela.\nO que resta do Castelo de Portalegre está classificado como Monumento Nacional desde 1922.",
-    "imageDir": "castelo-de-portalegre"
+    "imageDir": "castelo-de-portalegre",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049817",
@@ -1887,7 +2137,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Portel",
     "summary": "castelo medieval em Portel",
     "extract": "O Castelo de Portel, no Alentejo, localiza-se na vila, freguesia e município homónimo, distrito de Évora, em Portugal. Ergue-se em posição dominante sobre a vila medieval, num dos contrafortes da serra de Portel. Nas vizinhanças merecem visita, além do castelo, a Igreja Matriz da Vera Cruz, as grutas de Algar e a barragem do Alqueva.\nNo início do século XX, o conjunto foi classificado como Monumento Nacional por Decreto, publicado em 23 de Junho de 1910.",
-    "imageDir": "castelo-de-portel"
+    "imageDir": "castelo-de-portel",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049818",
@@ -1902,7 +2154,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Porto_de_M%C3%B3s",
     "summary": "castelo em Porto de Mós",
     "extract": "O Castelo de Porto de Mós, também referido como Castelo de D. Fuas Roupinho, localiza-se na freguesia de Porto de Mós - São João Baptista e São Pedro, na vila de Porto de Mós, no distrito de Leiria, em Portugal.\nErguido sobre um outeiro, em posição dominante sobre a povoação, o seu nome está ligado ao de D. Fuas Roupinho, imortalizado nos versos de Luís de Camões e na Lenda da Nazaré.\nO Castelo de Porto de Mós está classificado como Monumento Nacional desde 1910.",
-    "imageDir": "castelo-de-porto-de-mos"
+    "imageDir": "castelo-de-porto-de-mos",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q3817215",
@@ -1917,7 +2171,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Portuzelo",
     "summary": "building in Viana do Castelo, Viana do Castelo District, Portugal",
     "extract": "O Castelo de Portuzelo, ou Palacete de António Pereira da Cunha, é um palacete localizado na freguesia de Santa Marta de Portuzelo, no município e no Distrito de Viana do Castelo, em Portugal.\nÉ um palácio de estilo romântico, de feição acastelada, de planta quadrangular e alçados de dois registos encimados por uma torre central, conjugando elementos neogóticos e neomanuelinos.\nEncontra-se classificado como Imóvel de Interesse Público, por Decreto publicado em 29 de Setembro de 1977.\nPertencia à família da nobreza dos Pereira da Cunha, senhores da Casa Grande, de Paredes de Coura, cujo principal personagem foi o poeta António Pereira da Cunha e Castro Lobo, autor do desenho da transformação desta sua residência que, segundo várias fontes, serviu como um meio de contacto, assimilação e transferência de novos referentes culturais (à época), podendo assim relacionar com elementos e formas arquitetónicas análogas existentes noutros contextos, identificando possíveis modelos que interferiram na concretização do projeto de arquitetura ao nível da conformação imagética.\nA construção deste palácio fortificado, datado de 1853, onde terá existido uma casa torre do século XIII, devesse ao referido poeta e miguelista que, regressado de uma viagem à Baviera, na Alemanha, com o propósito de assistir ao batizado do filho primogénito de D. Miguel I, desejou construir para si um castelo que lhe lembrasse essa sua experiência, e que se coadunasse ao emergente espírito romântico. Com o seu entusiasmo, o próprio terá desenhado a planta.",
-    "imageDir": "castelo-de-portuzelo"
+    "imageDir": "castelo-de-portuzelo",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q9705660",
@@ -1932,7 +2188,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Proen%C3%A7a-a-Velha",
     "summary": "antigo castelo medieval actualmente inexistente",
     "extract": "O Castelo de Proença-a-Velha localizava-se na freguesia e povoação de Proença-a-Velha, Município de Idanha-a-Nova, no Distrito de Castelo Branco, em Portugal.",
-    "imageDir": "castelo-de-proenca-a-velha"
+    "imageDir": "castelo-de-proenca-a-velha",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049819",
@@ -1947,7 +2205,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Ranhados",
     "summary": "castelo medieval em Ranhados, no município de Mêda",
     "extract": "O Castelo de Ranhados localiza-se na freguesia de Ranhados, Município de Mêda, Distrito da Guarda, em Portugal.\nIsolado no cume de uma colina, ergue-se em posição dominante sobre a povoação e a confluência do rio Torto e a ribeira da Teja. O topónimo está ligado a esta posição geográfica, numa elevação entre dois rios, uma vez que o prefixo \"ranh\" significa a cumeada de elevações.\nEstá classificado como Imóvel de Interesse Público desde 1977.",
-    "imageDir": "castelo-de-ranhados"
+    "imageDir": "castelo-de-ranhados",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049820",
@@ -1962,7 +2222,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Rebord%C3%A3os",
     "summary": "castelo medieval em Rebordãos, Portugal",
     "extract": "O Castelo de Rebordãos, também referido como Castelo do Tourão ou Castelo de Tourões, localiza-se na povoação e freguesia de Rebordãos, município e distrito de Bragança, em Portugal.\nErguido sobre um penedo rochoso, em posição dominante sobre a povoação, é naturalmente defendido pelos lados Oeste e Norte. Do alto de seus muros avistam-se os vizinhos Castelo de Bragança, Castelo de Vimioso, Castelo de Outeiro de Miranda, Castelo de Penas Róias, Castelo de Miranda do Douro e as terras para além do rio Douro, até Zamora, na Espanha.\nO Castelo de Rebordãos encontra-se classificado como Imóvel de Interesse Público por Decreto publicado no DG nª 228 de 20 de Outubro de 1955.",
-    "imageDir": "castelo-de-rebordaos"
+    "imageDir": "castelo-de-rebordaos",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049821",
@@ -1977,7 +2239,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Redondo",
     "summary": "castelo medieval em Redondo",
     "extract": "O Castelo de Redondo, também referido como Castelo do Redondo, no Alentejo, localiza-se na vila e freguesia de Redondo, distrito de Évora, em Portugal.\nSitua-se na vertente sul da Serra d'Ossa, a 24 km a sudoeste da margem direita do Rio Guadiana. Faz parte da rede de castelos norte-alentejanos reestruturados por El-Rei D. Dinis I de Portugal (1279-1325) e doados à nobreza durante a época tardo-medieval – Estremoz, Monsaraz e Portel –, e apresenta alterações significativas do período manuelino. Do topo da Torre de Menagem é possível ver o Castelo de Evoramonte e a Serra d'Ossa, na orientação noroeste.\nOs restos de suas muralhas e a sua torre de menagem encontram-se classificados como Monumento Nacional por Decreto publicado em 2 de Janeiro de 1946.",
-    "imageDir": "castelo-de-redondo"
+    "imageDir": "castelo-de-redondo",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049822",
@@ -1992,7 +2256,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_R%C3%B3d%C3%A3o",
     "summary": "castelo de fundação templária em Vila Velha de Ródão",
     "extract": "O Castelo de Ródão, também referido como Castelo do Rei Vamba, é um castelo situado na freguesia e município de Vila Velha de Ródão, no distrito de Castelo Branco, província da Beira Baixa, em Portugal.\nConstitui-se numa torre-atalaia, erguida numa escarpa sobranceira ao rio Tejo, sobre as chamadas Portas de Ródão, um estreitamento no curso do rio. Do alto de seus muros, miradouro de visita obrigatória, o visitante descortina excepcional panorâmica do vale do Tejo.\nO Castelo de Ródão em conjunto com a Capela de Nossa Senhora do Castelo encontra-se classificado como Imóvel de Interesse Público desde 1993.",
-    "imageDir": "castelo-de-rodao"
+    "imageDir": "castelo-de-rodao",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q15207902",
@@ -2007,7 +2273,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Salir",
     "summary": "antigo castelo medieval em Salir, Portugal",
     "extract": "O Castelo de Salir é um monumento militar, situado na vila e freguesia de Salir, no concelho de Loulé, na região do Algarve, em Portugal. Foi construído no século XII, durante a época muçulmana, e tomado pelos cristãos em meados do século seguinte, durante o processo da reconquista do Algarve. Foi incendiado após a batalha, e depois reconstruído. Foi posteriormente abandonado, levando ao desaparecimento de grande parte das suas estruturas, tendo sido igualmente reutilizadas como paredes noutras construções da vila.",
-    "imageDir": "castelo-de-salir"
+    "imageDir": "castelo-de-salir",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q9705775",
@@ -2022,7 +2290,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Salvaterra_do_Extremo",
     "summary": "castelo medieval de que restam apenas vestígios na atualidade",
     "extract": "O Castelo de Salvaterra do Extremo localiza-se em Salvaterra do Extremo, na atual freguesia de Monfortinho e Salvaterra do Extremo, no Município de Idanha-a-Nova, Distrito de Castelo Branco, na Beira Baixa, em Portugal. \nCastelo raiano, foi absorvido pela malha urbana da povoação, subsistindo apenas vestígios na atualidade.\nSitua-se na margem direita do rio Erges. Na margem oposta do rio Erges, podem ser observadas as ruínas do Castelo de Peñafiel, em Zarza la Mayor, em território espanhol.",
-    "imageDir": "castelo-de-salvaterra-do-extremo"
+    "imageDir": "castelo-de-salvaterra-do-extremo",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q3775726",
@@ -2037,7 +2307,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Santa_Maria_da_Feira",
     "summary": "castelo em Santa Maria da Feira",
     "extract": "O Castelo da Feira, também referido  como Castelo de Santa Maria da Feira e Castelo de Santa Maria, localiza-se na freguesia e cidade da Feira, município de Santa Maria da Feira, distrito de Aveiro, em Portugal.\nOutrora cabeça da Terra de Santa Maria, ex libris da Feira, é considerado como um dos exemplos mais completos da arquitetura militar medieval no país, uma vez que nele se encontra representada a vasta gama de elementos defensivos empregados no período.\nO Castelo da Feira foi classificado como Monumento Nacional por Decreto de 16 de junho de 1910 publicado pelo DG nº 136, de 23 de junho de 1910.",
-    "imageDir": "castelo-de-santa-maria-da-feira"
+    "imageDir": "castelo-de-santa-maria-da-feira",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049823",
@@ -2052,7 +2324,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Santar%C3%A9m",
     "summary": "castelo medieval em Santarém",
     "extract": "O Castelo de Santarém, também referido como Muralhas de Santarém, Castelo e cerca urbana de Santarém e Torre das Cabaças, no Ribatejo, localiza-se na União de Freguesias da cidade de Santarém, na cidade e no município de Santarém, no distrito homónimo, em Portugal.\nEm sítio privilegiado em termos estratégico-defensivos, com fácil acesso ao rio e cercado por solos férteis para a agricultura, o castelo era integrante da chamada Linha do Tejo à época medieval. \nAtualmente restam apenas alguns troços das suas muralhas e a chamada Torre das Cabaças classificados como Imóvel de Interesse Público desde 1917.",
-    "imageDir": "castelo-de-santarem"
+    "imageDir": "castelo-de-santarem",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049824",
@@ -2067,7 +2341,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Santiago_do_Cac%C3%A9m",
     "summary": "castelo medieval em Santiago do Cacém",
     "extract": "O Castelo de Santiago do Cacém, no Alentejo, localiza-se na freguesia de Santiago do Cacém, Santa Cruz e São Bartolomeu da Serra, na cidade e município de Santiago do Cacém, no distrito de Setúbal, em Portugal.\nEm posição dominante sobre uma modesta colina, vizinha à orla atlântica e ao porto de Sines, controlava a planície vizinha. Atualmente integra a Região de Turismo da Costa Azul.\nO Castelo de Santiago do Cacém está classificado como Monumento Nacional desde 1910.",
-    "imageDir": "castelo-de-santiago-do-cacem"
+    "imageDir": "castelo-de-santiago-do-cacem",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049825",
@@ -2082,7 +2358,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Santo_Est%C3%AAv%C3%A3o",
     "summary": "castelo medieval em Santo Estêvão",
     "extract": "O Castelo de Santo Estêvão localiza-se na freguesia e vila de Santo Estêvão, município de Chaves, distrito de Vila Real, em Portugal.\nLocaliza-se em posição dominante sobre a povoação, a pouca distância do curso do rio Tâmega e da fronteira com a Espanha.\nO Castelo de Santo Estêvão está classificado como Monumento Nacional desde 1939.",
-    "imageDir": "castelo-de-santo-estevao"
+    "imageDir": "castelo-de-santo-estevao",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049826",
@@ -2097,7 +2375,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Seda",
     "summary": "remanescente de um castelo em Seda",
     "extract": "O Castelo de Seda, também referido como Muralhas de Seda e Fortificações de Seda, localiza-se na localidade e na freguesia de Seda, no Município de Alter do Chão, Distrito de Portalegre, no Alentejo, em Portugal.\nO monumento é impropriamente designado como castelo, uma vez que consiste nos remanescentes de um troço da cerca urbana, o que caracteriza Seda como uma povoação fortificada.\nO Castelo de Seda está classificado como Imóvel de Interesse Público desde 1982.",
-    "imageDir": "castelo-de-seda-restos"
+    "imageDir": "castelo-de-seda-restos",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q9706023",
@@ -2112,7 +2392,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Sernancelhe",
     "summary": "castelo medieval encontra-se actualmente em ruínas",
     "extract": "O Castelo de Sernancelhe localiza-se na vila, na freguesia e no município de Sernancelhe, no Distrito de Viseu, em Portugal.\nErguido no extremo Sul da região do Douro, vizinho à serra da Lapa e ao caminho que ligava a Guarda a Lamego, guardava a área junto ao rio Távora no século X.",
-    "imageDir": "castelo-de-sernancelhe"
+    "imageDir": "castelo-de-sernancelhe",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q4993712",
@@ -2127,7 +2409,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Serpa",
     "summary": "castelo medieval em Serpa, Portugal",
     "extract": "O Castelo de Serpa localiza-se na freguesia de Serpa (Salvador e Santa Maria), cidade e município de Serpa, no distrito de Beja, no Baixo Alentejo, em Portugal.\nEm posição dominante sobre a povoação, integra o território da margem esquerda do rio Guadiana, juntamente com os vizinhos Castelo de Moura, Castelo de Mértola (este na margem direita) e Castelo de Noudar.\nEm meados do século XX, o conjunto do castelo e das muralhas de Serpa foi classificado como Monumento Nacional por Decreto publicado em 30 de Janeiro de 1954, no mesmo ano em que o estado adquiriu um troço da muralha à condessa de Cuba.",
-    "imageDir": "castelo-de-serpa"
+    "imageDir": "castelo-de-serpa",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049828",
@@ -2142,7 +2426,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Sesimbra",
     "summary": "castelo medieval em Sesimbra",
     "extract": "O Castelo de Sesimbra, também referido como Castelo dos Mouros, localiza-se na freguesia do Castelo, na vila e município de Sesimbra, distrito de Setúbal, em Portugal.\nO castelo medieval ergue-se em posição dominante numa falésia, sobre uma enseada que se constitui em porto natural na península de Setúbal, entre os estuários do rio Tejo e o do rio Sado, a poucos quilômetros do cabo Espichel.\nO Castelo de Sesimbra está classificado como Monumento Nacional desde 1910.",
-    "imageDir": "castelo-de-sesimbra"
+    "imageDir": "castelo-de-sesimbra",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q1971757",
@@ -2157,7 +2443,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Silves",
     "summary": "castelo medieval muçulmano em Silves, Portugal",
     "extract": "O Castelo de Silves é um monumento militar localizado na cidade, freguesia e município de Silves, no distrito de Faro, no Algarve, em Portugal. O conjunto das estruturas defensivas de Silves era constituído por dois elementos: uma muralha exterior que protegia parte da cidade, formando uma medina, e a fortaleza no seu interior, conhecido como alcáçova, situada no ponto mais elevado da colina. A alcáçova é a maior estrutura deste tipo no Algarve, e um dos mais importantes monumentos na região, sendo também considerado como o mais belo exemplo da arquitectura militar islâmica no país.\nAs defesas exteriores foram construídas logo nos primeiros anos da ocupação islâmica, no século VIII, nos primeiros anos do domínio muçulmano sobre a região, tendo atingido o seu auge no século XI, quando Silves se tornou na capital de uma taifa, um tipo de reino autónomo. A alcáçova foi provavelmente construída muito depois, durante o califado almóada (1121 - 1269). Porém, tanto a cidade como o castelo em si entraram em declínio após terem sido pela primeira vez pelas forças cristãs, em 1189. Foi retomada pelos muçulmanos apenas cerca de ano e meio depois, em 1191, mas a destruição provocada pelas campanhas militares impediu o seu renascimento. Ainda assim, o castelo foi depois alvo de grandes obras nos séculos XII e XIII. Silves foi definitivamente reconquistada em 1249, mas continuou em franca regressão, principalmente devido ao assoreamento do Rio Arade, apesar das várias tentativas da coroa em fomentar o seu desenvolvimento. No século XV, destaca-se a permanência do Infante D. Henrique em Silves, como alcaide. O castelo em si foi classificado como Monumento Nacional em 1910, enquanto que as muralhas da cidade e a Porta Almedina também foram protegidas como Monumento Nacional em 2012. Na década de 1940, a alcáçova foi alvo de grandes obras de restauro por parte do governo, tendo grande parte das muralhas e das torres sido reforçados ou reconstruídos.",
-    "imageDir": "castelo-de-silves"
+    "imageDir": "castelo-de-silves",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049829",
@@ -2172,7 +2460,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Sines",
     "summary": "castelo medieval com alterações góticas e setecentistas, em Sines",
     "extract": "O Castelo de Sines, no Alentejo, localiza-se na freguesia, na cidade e no município de Sines, distrito de Setúbal, em Portugal.\nTinha como finalidade defender aquela área da costa alentejana, principalmente a povoação e o seu importante porto de pesca, que era assolada corsários.\nO Castelo de Sines está classificado como Imóvel de Interesse Público desde 1933.\nOcupando parte das suas edificações está atualmente o Museu de História Natural de Sines. Na antiga torre de menagem, onde se acredita que terá nascido Vasco da Gama, foi instalado um museu relativo ao navegador e aos Descobrimentos Portugueses.",
-    "imageDir": "castelo-de-sines"
+    "imageDir": "castelo-de-sines",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049831",
@@ -2187,7 +2477,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Sortelha",
     "summary": "castelo medieval em Sortelha, Portugal",
     "extract": "O Castelo de Sortelha localiza-se na vila do mesmo nome, município do Sabugal, distrito da Guarda, em Portugal.\nErguido sobre um maciço granítico em posição dominante sobre o vale de Riba-Côa, área de passagem entre a Meseta Ibérica e a depressão da Cova da Beira, integra o conjunto da que é considerada uma das mais bem conservadas Aldeias Históricas da Beira Interior.\nO Castelo de Sortelha está classificado como Monumento Nacional desde 1910.",
-    "imageDir": "castelo-de-sortelha"
+    "imageDir": "castelo-de-sortelha",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q2970726",
@@ -2202,7 +2494,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Soure",
     "summary": "castelo em Soure, Portugal",
     "extract": "O Castelo de Soure localiza-se na vila, freguesia e município de Soure, Distrito de Coimbra, em Portugal.\nErgue-se no vale do baixo rio Mondego, numa colina baixa, formada por aluviões, na confluência do rio Anços e o rio Arunca, tendo a vila se desenvolvido ao abrigo de seus muros.\nAtualmente em ruínas, integrava a linha avançada de redutos defensivos de Coimbra, juntamente com os castelos de Santa Olaia, Miranda do Corvo (já desaparecidos), Montemor-o-Velho, Penela e Lousã.\nO castelo foi classificado como Monumento Nacional por Decreto publicado em 5 de Abril de 1949.",
-    "imageDir": "castelo-de-soure"
+    "imageDir": "castelo-de-soure",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q8963003",
@@ -2217,7 +2511,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Forte_de_S%C3%A3o_Filipe_(Set%C3%BAbal)",
     "summary": "Monumento Nacional em Setúbal, Portugal",
     "extract": "O Forte de São Filipe, também conhecido como Castelo de São Filipe e Fortaleza de São Filipe, é uma fortificação localizada em Setúbal, classificada como monumento nacional desde 1933. Localiza-se no Parque Natural da Arrábida. Encontra-se em posição dominante sobre um outeiro, fronteiro à cidade de Setúbal, dominando a foz do rio Sado e o oceano Atlântico, em Portugal.",
-    "imageDir": "castelo-de-sao-filipe"
+    "imageDir": "castelo-de-sao-filipe",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q636780",
@@ -2232,7 +2528,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_S%C3%A3o_Jorge",
     "summary": "castelo em Lisboa, Portugal",
     "extract": "O Castelo de São Jorge, antigo Paço da Alcáçova, localiza-se na freguesia de Santa Maria Maior (Castelo), na cidade e município de Lisboa, em Portugal. Classificado como Monumento Nacional desde 1910, ergue-se em posição dominante sobre a mais alta colina do centro histórico, proporcionando aos visitantes uma das mais belas vistas sobre a cidade e o estuário do rio Tejo.\nAs primeiras muralhas do castelo, que foi reconstruído diversas vezes por vários povos e recebeu diferentes nomes, datam do século II a.C.. O nome actual deriva da devoção do castelo a São Jorge, santo padroeiro dos cavaleiros e das cruzadas, feita por ordem de D. João I no século XIV. \nAo longo do tempo o castelo, assim como as diversas estruturas militares de Lisboa, foi sendo remodelado, ao ponto de na primeira metade do século XX estar já em avançado estado de ruína. Na década de 1940 foram empreendidas monumentais obras de reconstrução, levantando-se grande parte dos muros e alteando-se muitas das torres. Por esse motivo, ao contrário do que se poderia pensar à primeira vista, o \"carácter medieval\" deste conjunto militar deve-se a esta campanha de reconstrução, e não à preservação do espaço do castelo desde a Idade Média até aos nossos dias.",
-    "imageDir": "castelo-de-sao-jorge"
+    "imageDir": "castelo-de-sao-jorge",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049832",
@@ -2247,7 +2545,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Tavira",
     "summary": "castelo em Tavira",
     "extract": "O Castelo de Tavira localiza-se na União das Freguesias de Tavira (Santa Maria e Santiago), cidade de Tavira, distrito de Faro, em Portugal.\nEm posição dominante sobre a foz do rio Gilão a povoação desenvolveu-se como importante porto marítimo desde a Antiguidade.\nO Castelo de Tavira está classificado como Monumento Nacional desde 2014.",
-    "imageDir": "castelo-de-tavira"
+    "imageDir": "castelo-de-tavira",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5050421",
@@ -2262,7 +2562,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Terena",
     "summary": "castelo medieval de Terena, Portugal",
     "extract": "O Castelo de Terena localiza-se na povoação e freguesia de mesmo nome, município de Alandroal, Distrito de Évora, na região do Alentejo, em Portugal.\nEm posição dominante no alto de um monte, integrou a linha de defesa do rio Guadiana, juntamente com os castelos de Juromenha, Alandroal, Monsaraz e Mourão.\nO Castelo de Terena está classificado desde 1946 como Monumento Nacional.",
-    "imageDir": "castelo-de-terena"
+    "imageDir": "castelo-de-terena",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q2970821",
@@ -2277,7 +2579,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Tomar",
     "summary": "Castelo medieval em Tomar",
     "extract": "O Castelo de Tomar, no Ribatejo, localiza-se na freguesia de Tomar (São João Baptista) e Santa Maria dos Olivais, na cidade e município de Tomar, distrito de Santarém, em Portugal. Integra o grande conjunto arquitetónico do Convento de Cristo.\nCastelo templário na margem direita do rio Nabão, integrou, à época da Reconquista, a chamada Linha do Tejo, juntamente com outros na região que lhe acompanham o estilo: os de Almourol, Idanha, Monsanto, Pombal e Zêzere.\nO Castelo de Tomar está classificado como Monumento Nacional desde 1910, e como Património da Humanidade pela UNESCO desde 1983.",
-    "imageDir": "castelo-de-tomar"
+    "imageDir": "castelo-de-tomar",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049834",
@@ -2292,7 +2596,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Torre_de_Coelheiros",
     "summary": "edifício histórico em Torre de Coelheiros, no Município de Évora, em Portugal",
     "extract": "O Castelo de Torre de Coelheiros, Torre de Coelheiros ou Paço dos Cogominhos, localiza-se na freguesia de Torre de Coelheiros, no Município de Évora, Distrito de Évora, no Alentejo, em Portugal.\nEstá classificada como Imóvel de Interesse Público pelo Decreto publicado em 18 de Julho de 1957.",
-    "imageDir": "castelo-de-torre-de-coelheiros"
+    "imageDir": "castelo-de-torre-de-coelheiros",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049835",
@@ -2307,7 +2613,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Torre_de_Moncorvo",
     "summary": "castelo em Torre de Moncorvo, no distrito de Bragança, Portugal",
     "extract": "O Castelo de Torre de Moncorvo, também referido como Castelo e cerca urbana de Torre de Moncorvo, localiza-se na freguesia, na vila e no Município de Torre de Moncorvo, na região do Douro, no Distrito de Bragança, em Portugal.\nOs remanescentes do conjunto, alguns troços de muralha na altura da Praça da República e adjacências, encontram-se classificados como Imóvel de Interesse Público por Decreto publicado em 20 de Outubro de 1955.",
-    "imageDir": "castelo-de-torre-de-moncorvo"
+    "imageDir": "castelo-de-torre-de-moncorvo",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q10383759",
@@ -2322,7 +2630,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Torre_do_Atalai%C3%A3o",
     "summary": "castelo em Portalegre, Portugal",
     "extract": "A Torre do Atalaião, também referida como Atalaia ou Torre de Vigia, localiza-se na atual freguesia da Sé e São Lourenço, na cidade e no Município de Portalegre, no Distrito de Portalegre, em Portugal.\nEncontra-se em vias de classificação, tendo sido homologado como Imóvel de Interesse Público por Despacho de setembro 1985.",
-    "imageDir": "castelo-de-torrejao"
+    "imageDir": "castelo-de-torrejao",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049837",
@@ -2337,7 +2647,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Torres_Novas",
     "summary": "castelo medieval em Torres Novas",
     "extract": "O Castelo de Torres Novas localiza-se na freguesia de São Pedro, Lapas e Ribeira Branca, município de Torres Novas, no distrito de Santarém, em Portugal.\nEm posição dominante sobre a vila, à margem do rio Almonda, integrante da chamada Linha do Tejo, o antigo castelo medieval permanece como ex-libris da povoação.\nO Castelo de Torres Novas está classificado como Monumento Nacional desde 1910.",
-    "imageDir": "castelo-de-torres-novas"
+    "imageDir": "castelo-de-torres-novas",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049838",
@@ -2352,7 +2664,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Torres_Vedras",
     "summary": "building in Torres Vedras, Lisbon District, Portugal",
     "extract": "O Castelo de Torres Vedras localiza-se na freguesia de Santa Maria, São Pedro e Matacães, na cidade e no Município de Torres Vedras, região Oeste e distrito de Lisboa, em Portugal.\nErgue-se em posição dominante sobre um monte escarpado e íngreme, envolvido pela malha urbana e por arvoredo.",
-    "imageDir": "castelo-de-torres-vedras"
+    "imageDir": "castelo-de-torres-vedras",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049839",
@@ -2367,7 +2681,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Trancoso",
     "summary": "castelo medieval em Trancoso",
     "extract": "O Castelo de Trancoso localiza-se na Beira Interior, na freguesia de Trancoso (São Pedro e Santa Maria) e Souto Maior, cidade e município de Trancoso, distrito da Guarda, em Portugal.\nErgue-se sobre um planalto na região Nordeste da Beira, vizinho à nascente do rio Távora, afluente do rio Douro, e ao Castelo de Penedono, distante cerca de cinco léguas, com o qual compartilha caraterísticas comuns. Desde o século XII, época da constituição da nacionalidade portuguesa, a povoação e seu castelo adquiriram importância estratégica na raia com o Reino de Leão, a par de outras localidades como a Guarda e a Covilhã. Posteriormente constituir-se-ia em domínio da família dos Coutinho. Atualmente constitui-se em ex-libris da cidade, atraindo milhares de turistas anualmente.\nO Castelo de Trancoso está classificado como Monumento Nacional desde 1921.",
-    "imageDir": "castelo-de-trancoso"
+    "imageDir": "castelo-de-trancoso",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049840",
@@ -2382,7 +2698,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Valongo",
     "summary": "castelo medieval no município de Évora",
     "extract": "O Castelo de Valongo, também referido como Castelo Real de Montoito, no Alentejo, localiza-se na freguesia de Nossa Senhora de Machede, no município e distrito de Évora, em Portugal.\nErgue-se posição dominante sobre uma elevação na Herdade da Grã, próximo ao ribeiro da vila.\nO Castelo de Valongo está classificado como Monumento Nacional desde 1910.",
-    "imageDir": "castelo-de-valongo"
+    "imageDir": "castelo-de-valongo",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049841",
@@ -2397,7 +2715,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Veiros",
     "summary": "castelo medieval em Veiros, município de Estremoz",
     "extract": "O Castelo de Veiros, também referido como Castelo e cerca urbana de Veiros, no Alto Alentejo, localiza-se na vila e freguesia de Veiros, município de Estremoz, distrito de Évora, em Portugal.\nEm posição dominante sobre uma colina escarpada, na Idade Média integrava a defesa composta pelos castelos de Monforte, Campo Maior e de Ouguela. Atualmente inscreve-se na Área Turístico-Promocional de Planícies.\nO Castelo de Veiros encontra-se classificado como Imóvel de Interesse Público por Decreto publicado em 18 de Julho de 1957.",
-    "imageDir": "castelo-de-veiros"
+    "imageDir": "castelo-de-veiros",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5050437",
@@ -2412,7 +2732,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Viana_do_Alentejo",
     "summary": "castelo medieval em Viana do Alentejo",
     "extract": "O Castelo de Viana do Alentejo localiza-se na vila, freguesia e Município de Viana do Alentejo, no Distrito de Évora, em Portugal.\nAproximadamente equidistante das cidades de Évora e de Beja, o castelo ergue-se no sopé sul do monte de S. Vicente, em posição dominante sobre a parte antiga da vila. É considerado, juntamente com o Castelo de Alvito, um dos mais notáveis conjuntos arquitetónicos fortificados do final do período gótico. O seu nome, Viana do Alentejo, liga-se ao título nobiliárquico da família Meneses, primeiros condes de Viana, que se destacaram nas campanhas portuguesas do Marrocos no século XV.\nO castelo encontra-se classificado como Monumento Nacional por Decreto publicado em 23 de junho de 1910.",
-    "imageDir": "castelo-de-viana-do-alentejo"
+    "imageDir": "castelo-de-viana-do-alentejo",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q2042551",
@@ -2427,7 +2749,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Vidigueiras_(Reguengos_de_Monsaraz)",
     "summary": "quinta fortificada nos arredores da cidade de Reguengos de Monsaraz",
     "extract": "O Castelo de Vidigueiras, também referido como Torre das Vidigueiras, localiza-se na freguesia e no Município de Reguengos de Monsaraz, no distrito de Évora, no Alentejo, em Portugal.\nÀ semelhança da Torre do Esporão constitui um exemplar da arquitetura militar alentejana à época, a sua edificação prendendo-se a questões de afirmação social. Muitas famílias nobres em ascensão mandavam edificar nos seus senhorios ou nas urbes onde viviam, torreões que serviam de residência ou de local de pernoite, com o objetivo salientar o prestígio da sua linhagem e a sua nova condição social.\nEsta edificação trata-se também de uma torre, adaptada a residência senhorial por volta do século XVI. A primitiva construção, de planta quadrangular, foi acrescida de um pavilhão e remodelada ao gosto romântico.\nEncontra-se classificado como Imóvel de Interesse Público por Decreto publicado em 18 de Julho de 1957.",
-    "imageDir": "castelo-de-vidigueiras"
+    "imageDir": "castelo-de-vidigueiras",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049842",
@@ -2442,7 +2766,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Vila_Flor",
     "summary": "castelo medieval em Vila Flor de que restam vestígios",
     "extract": "O chamado Castelo de Vila Flor localiza-se na freguesia de Vila Flor e Nabo, vila e município de Vila Flor, distrito de Bragança, em Portugal.\nTrata-se, na realidade, da antiga cerca medieval da vila, da qual resta apenas um pequeno troço e o chamado Arco de D. Dinis.",
-    "imageDir": "castelo-de-vila-flor"
+    "imageDir": "castelo-de-vila-flor",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049843",
@@ -2457,7 +2783,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Vila_Nova_de_Cerveira",
     "summary": "castelo medieval em Vila Nova de Cerveira",
     "extract": "O Castelo de Vila Nova de Cerveira localiza-se na atual freguesia de Vila Nova de Cerveira e Lovelhe, na vila e no município de Vila Nova de Cerveira, distrito de Viana do Castelo, em Portugal.\nSentinela da linde norte, delimitada pelo curso do rio Minho, ergue-se na sua margem esquerda, fronteiro à Espanha, cobrindo a linha defensiva do Alto Minho, no trecho compreendido entre a foz do rio, na altura de Caminha, e a vila de Melgaço.\nO Castelo de Vila Nova de Cerveira encontra-se classificado como Imóvel de Interesse Público desde 1974.",
-    "imageDir": "castelo-de-vila-nova-de-cerveira"
+    "imageDir": "castelo-de-vila-nova-de-cerveira",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q134837748",
@@ -2472,7 +2800,9 @@
     "wikipedia": null,
     "summary": null,
     "extract": null,
-    "imageDir": "castelo-de-vila-nova-de-foz-coa"
+    "imageDir": "castelo-de-vila-nova-de-foz-coa",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049844",
@@ -2487,7 +2817,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Vila_Verde_dos_Francos",
     "summary": "castelo em Alenquer, Portugal",
     "extract": "O Castelo de Vila Verde dos Francos é uma construção militar medieval de que restam ruínas que se localizava na povoação e na freguesia de Vila Verde dos Francos, Município de Alenquer, região Oeste e distrito de Lisboa, em Portugal.\nJorge Peixoto (1987) considera-o um posto de atalaia entre o triângulo das importantes fortificações de Óbidos, Torres Vedras e Alenquer.\nO Castelo de Vila Verde dos Francos está classificado como Imóvel de Interesse Público desde 1953.",
-    "imageDir": "castelo-de-vila-verde-dos-francos"
+    "imageDir": "castelo-de-vila-verde-dos-francos",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049846",
@@ -2502,7 +2834,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Vila_Vi%C3%A7osa",
     "summary": "castelo medieval em Vila Viçosa, Portugal",
     "extract": "O Castelo de Vila Viçosa é um monumento localizado na freguesia de Nossa Senhora da Conceição e São Bartolomeu da vila e município de Vila Viçosa, distrito de Évora, Alentejo, Portugal.\nEm posição dominante sobre a vila, nas proximidades da vertente nordeste da serra de Ossa, ergue-se sobre uma colina defendida naturalmente pela ribeira de Ficalho e pela ribeira do Carrascal, afluentes menores do rio Guadiana.\nEncontra-se classificado como monumento nacional por decreto publicado em 23 de junho de 1910.",
-    "imageDir": "castelo-de-vila-vicosa"
+    "imageDir": "castelo-de-vila-vicosa",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q17390112",
@@ -2517,7 +2851,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Vila_do_Touro",
     "summary": "castelo medieval no município do Sabugal, Portugal",
     "extract": "O Castelo de Vila do Touro localiza-se na povoação e freguesia de Vila do Touro, no Município do Sabugal, Distrito da Guarda, em Portugal.\nNo alto de uma elevação sobranceira ao vale da ribeira do Boi, no ponto de sua confluência com o rio Côa, é um dos cinco castelos erguidos no Município, além dos de Alfaiates, Vilar Maior, Sabugal e Sortelha. Do alto de seus muros avistam-se localidades como as de Abitureira, Arrifana, Baraçal, Guarda, Martim Pêga, Pega, Sabugal e Seixo do Côa.",
-    "imageDir": "castelo-de-vila-do-touro"
+    "imageDir": "castelo-de-vila-do-touro",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049845",
@@ -2532,7 +2868,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Vilar_Maior",
     "summary": "castelo medieval em Vilar Maior, Portugal",
     "extract": "O Castelo de Vilar Maior localiza-se na povoação de Vilar Maior, freguesia de Aldeia da Ribeira, Vilar Maior e Badamalos, município do Sabugal, distrito da Guarda, em Portugal.\nEm posição dominante sobre o vale do rio Cesarão e a povoação, do alto de seus muros é possível avistar-se o Castelo da Guarda.\nO Castelo de Vilar Maior está classificada como Imóvel de Interesse Público desde 1996.",
-    "imageDir": "castelo-de-vilar-maior"
+    "imageDir": "castelo-de-vilar-maior",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049847",
@@ -2547,7 +2885,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Vinhais",
     "summary": "castelo medieval em Vinhais",
     "extract": "O Castelo de Vinhais localiza-se na vila e sede do município de Vinhais, no distrito de Bragança, em Portugal.\nCastelo da raia, a sua proximidade e as facilidades de comunicação com o reino de Castela influenciaram a sua história, cuja posse oscilou entre ambos os reinos na Crise de 1383/85.\nO Castelo de Vinhais foi classificado como Monumento Nacional em 1947.",
-    "imageDir": "castelo-de-vinhais"
+    "imageDir": "castelo-de-vinhais",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q2968395",
@@ -2562,7 +2902,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_%C3%89vora",
     "summary": "fortificação em Évora",
     "extract": "O Castelo de Évora, também referido como Muralhas e Fortificações de Évora e Sistema Fortificado de Évora, localiza-se na cidade e Distrito de mesmo nome, no Alentejo, em Portugal.\nVárias componentes das Muralhas e Fortificações de Évora estão classificadas como Monumento Nacional.",
-    "imageDir": "castelo-de-evora"
+    "imageDir": "castelo-de-evora",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q2043483",
@@ -2577,7 +2919,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_%C3%89vora_Monte",
     "summary": "castelo medieval em Évora Monte, Portugal",
     "extract": "O Castelo de Évora Monte, também conhecido como Castelo de Evoramonte, localiza-se na freguesia de Évora Monte, município de Estremoz, distrito de Évora, no Alentejo, em Portugal.\nErguido em um dos pontos mais elevados da serra de Ossa, no centro da povoação, do alto de seus muros domina-se uma grande extensão em derredor, até ao Castelo de Estremoz.\nO castelo e a cerca da vila foram considerados como Monumento Nacional por Decreto publicado em 23 de Junho de 1910.",
-    "imageDir": "castelo-de-evora-monte"
+    "imageDir": "castelo-de-evora-monte",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q2579998",
@@ -2592,7 +2936,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_%C3%93bidos",
     "summary": "Castelo medieval em Óbidos",
     "extract": "O Castelo de Óbidos localiza-se na freguesia de Santa Maria, São Pedro e Sobral da Lagoa, vila e município de Óbidos. Situado na província histórica da Estremadura e na região Oeste de Portugal.\nO Castelo de Óbidos está classificado como Monumento Nacional desde 1910.",
-    "imageDir": "castelo-de-obidos"
+    "imageDir": "castelo-de-obidos",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049850",
@@ -2607,7 +2953,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_do_Alandroal",
     "summary": "building in Alandroal Municipality, Évora District, Portugal",
     "extract": "O Castelo do Alandroal ergue-se na vila do Alandroal, na União de freguesias de Alandroal, São Brás dos Matos e Juromenha, distrito de Évora, na região do Alentejo, em Portugal.\nO Castelo do Alandroal está classificado desde 1910 como Monumento Nacional.",
-    "imageDir": "castelo-do-alandroal"
+    "imageDir": "castelo-do-alandroal",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049848",
@@ -2622,7 +2970,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_do_Crato",
     "summary": "castelo medieval e fortaleza no Crato",
     "extract": "O Castelo do Crato, também referido como Fortificações do Crato ou Castelo da Azinheira, localiza-se na atual freguesia de Crato e Mártires, Flor da Rosa e Vale do Peso, na vila e no Município do Crato, Distrito de Portalegre, no Alentejo, em Portugal.\nCastelo hospitalário, ergue-se em posição dominante sobre a povoação, elevada à condição de sede da Ordem no país desde 1340.\nO Castelo do Crato está classificado como Imóvel de Interesse Público desde 1982.",
-    "imageDir": "castelo-do-crato-restos"
+    "imageDir": "castelo-do-crato-restos",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q2970478",
@@ -2637,7 +2987,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_do_Sabugal",
     "summary": "castelo medieval no Sabugal",
     "extract": "O Castelo do Sabugal, também referido como Castelo das Cinco Quinas devido ao formato incomum de sua torre de menagem, localiza-se na freguesia de Sabugal e Aldeia de Santo António, cidade e município do Sabugal, no distrito da Guarda, em Portugal.\nEm posição dominante sobre a povoação, num pequeno planalto da serra da Malcata, controla a travessia do rio Côa em sua margem direita, donde a sua importância na antiguidade e na época medieval.\nO Castelo do Sabugal está classificado como Monumento Nacional desde 1910.",
-    "imageDir": "castelo-do-sabugal"
+    "imageDir": "castelo-do-sabugal",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q107353501",
@@ -2652,7 +3004,9 @@
     "wikipedia": null,
     "summary": null,
     "extract": null,
-    "imageDir": "castelo-dos-cabris"
+    "imageDir": "castelo-dos-cabris",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q1049008",
@@ -2667,7 +3021,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_dos_Mouros_(Sintra)",
     "summary": "castelo em Sintra, Portugal",
     "extract": "O Castelo de Sintra, popularmente conhecido como Castelo dos Mouros, localiza-se na vila de Sintra, freguesia de Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim), município de Sintra, no distrito de Lisboa, em Portugal. Está classificado como Monumento Nacional desde 1910.\nErguido sobre um maciço rochoso, isolado num dos cumes da serra de Sintra, na Estremadura, do alto das suas muralhas descortina-se uma vista privilegiada de toda a sua envolvência rural que se estende até ao oceano Atlântico.",
-    "imageDir": "castelo-dos-mouros"
+    "imageDir": "castelo-dos-mouros",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049766",
@@ -2682,7 +3038,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Castelo_Branco",
     "summary": "castelo medieval em Castelo Branco, Portugal",
     "extract": "O Castelo de Castelo Branco, também conhecido localmente como Castelo dos Templários, localiza-se na cidade, freguesia, município e Distrito de Castelo Branco, em Portugal.\nEra um castelo ibérico estratégico e integrava, na Idade Média, a chamada Linha da Raia ou Linha do Tejo. Severamente danificado ao longo dos séculos, o castelo dos Templários permanece como o mais importante registro histórico-militar da cidade.\nUma maquete da Fortaleza Quinhentista, produzida por Júlio Vaz de Carvalho e em Exposição na Casa da Memória da Presença Judaica. Este Modelo, integrado no Património Municipal foi elaborado segundo os debuxos e planta contidos no Livro das Fortalezas de Duarte D'Armas.",
-    "imageDir": "castelo-e-muralhas-de-castelo-branco"
+    "imageDir": "castelo-e-muralhas-de-castelo-branco",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5050362",
@@ -2697,7 +3055,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_Velho_de_Alcoutim",
     "summary": "castelo islâmico em ruínas perto de Alcoutim",
     "extract": "O Castelo Velho de Alcoutim, também denominado como Castro de Santa Bárbara, localiza-se na atual Freguesia de Alcoutim e Pereiro, no Município de Alcoutim, no Distrito de Faro, em Portugal.\nConstituíndo-se em uma das mais importantes estruturas da arquitectura militar islâmica do Algarve, o monumento domina a plataforma de topo de um morro alcantilado, sobre o rio Guadiana, a cerca de um quilómetro a norte da vila de Alcoutim.\nEncontra-se classificado como Imóvel de Interesse Público pelo Decreto de 31 de Dezembro de 1997, sendo considerado como um ex-libris da região em geral e do concelho de Alcoutim em particular, do ponto de vista do legado muçulmano.",
-    "imageDir": "castelo-velho-de-alcoutim"
+    "imageDir": "castelo-velho-de-alcoutim",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q3752952",
@@ -2712,7 +3072,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Cola",
     "summary": "sítio arqueológico em Ourique",
     "extract": "O Castelo de Cola, também conhecido como Castro da Cola ou Cidade de Marrachique, é um sítio arqueológico e um santuário mariano, situado no município de Ourique, distrito de Beja, em Portugal. Consiste numa povoação fortificada, habitada desde o neolítico até à Idade Média, com duas fases de ocupação intensiva, a primeira durante a Idade do Ferro e a segunda no período islâmico. O povoado islâmico teria alguma importância a nível regional, principalmente do ponto de vista militar, sendo então uma pequena fortificação, que fazia parte de uma rede defensiva. Com efeito, o topónimo Cola poderá ser uma corrupção do termo muçulmano Qal’a, que designa um forte. Além do sítio arqueológico em si, o conjunto do Castro da Cola também inclui uma igreja, conhecida como Santuário de Nossa Senhora da Cola, que é um importante centro de devoção Mariano no Alentejo.\nAs ruínas do Castro da Cola são conhecidas pelos investigadores portugueses pelo menos desde o século XVI, tendo sido referidas por André de Resende, mas os primeiros trabalhos arqueológicos sistemáticos só foram feitos em meados do século XX, por Abel Viana. Este sítio arqueológico encontra-se classificado como Monumento Nacional por Decreto publicado em 23 de Junho de 1910.",
-    "imageDir": "castro-da-cola"
+    "imageDir": "castro-da-cola",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q18482136",
@@ -2727,7 +3089,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Vermoim",
     "summary": "antigo povoado fortificado da Idade do Ferro e castelo medieval em Vermoim, Vila Nova de Famalicão",
     "extract": "O Castelo de Vermoim era um castelo medieval, localizado em Vermoim, freguesia de Vila Nova de Famalicão, em Portugal.\nEste castelo evoluiu de um castro da Idade do Ferro que se localizava no mesmo local e cujas escavações nos anos 80 revelaram peças de cerâmica e alicerces de edifícios dessa época.\nA sua construção data do século XI ou anterior pelo conde D. Vermuiz Forjaz (de onde terá derivado o nome do Castelo e posteriormente da própria freguesia) e terá sido abandonado no séc. XIV após ter perdido a sua função estratégica, ressentida após o ataque sofrido em 1016.\n\nO castelo sofreu um ataque de Normandos em 1016, o qual provocou a morte do conde de Portugal, Alvito Nunes que defendia o castelo. A destruição foi de tal forma violenta que o castelo nunca mais recuperou.\nEsse ataque aparece referido num documento da época, traduzido pelo Padre Benjamim Salgado: \"Era MLIV.VIII idus Septembris veniunt hormanes ad Castellum Vermudi quod erat in provincia Bracharensi\", que se traduz como \"Na era de 1054 (ano de 1016), em 6 de Setembro, vêm os Normandos atacar o Castelo de Vermoim, na província de Braga.\"\nDe facto, diversos documentos retratam o castro e o castelo como ponto geológico de referência para diversas localidades, tal como se percebe num documento de 1065: \"Baseliga fundata est in villa Joannis sptus mons Kastro Vermui territorio Portugalense propre ribulo Pel\" que refere uma basílica na Vila de Joane, na base do monte do Castro de Vermoim, próximo ao rio Pele.\nOutro documento de 1114, localiza a atual freguesia de Requião como estando na base do monte do Castelo de Vermoim: \"in villa Riquilani subtus Castello Vermudi territorium Bracarense discurrente ribulo Ageradi\".\nNo livro \"Portugal Antigo e Moderno\" (1882) de Augusto Pinho Leal, este refere um pouco da história da fundação do castelo: \"É povoação antiquíssima, pois já existia pelo menos no tempo dos romanos, e era defendida por um castelo, fundado pelo conde D. Vermuiz Forjaz\" e refere ainda dois ataques ao castelo. Um feito em 977 pelos mouros e mais tarde, em 1016 pelos normandos.",
-    "imageDir": "castro-ou-castelo-de-vermoim"
+    "imageDir": "castro-ou-castelo-de-vermoim",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q65161697",
@@ -2742,7 +3106,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Cemit%C3%A9rio_de_Ferreira_do_Alentejo",
     "summary": "cemitério em Ferreira do Alentejo, Portugal",
     "extract": "O Cemitério de Ferreira do Alentejo é uma infra-estrutura e um sítio arqueológico na vila de Ferreira do Alentejo, em Portugal. Situa-se no local onde antes se erguia um castelo, que foi demolido e substituído pelo cemitério no século XIX.",
-    "imageDir": "cemiterio-de-ferreira-do-alentejo"
+    "imageDir": "cemiterio-de-ferreira-do-alentejo",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q1438891",
@@ -2757,7 +3123,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Fortaleza_de_Cacela",
     "summary": "fortaleza em Cacela Velha, no municipio de Vila Real de Santo António",
     "extract": "A Fortaleza de Cacela, também referida como Forte de Cacela, Fortaleza dos Cavaleiros de Santiago de Cacela e Castelo de Cacela, no Algarve, localiza-se na povoação de Cacela-Velha, freguesia de Vila Nova de Cacela, Município de Vila Real de Santo António, no Distrito de Faro, em Portugal.\nEm posição dominante sobranceira à foz da ria Formosa, encontra-se atualmente compreendido no património classificado de Cacela Velha, considerado como um dos mais importantes conjuntos arquitectónicos do Algarve.",
-    "imageDir": "fortaleza-de-cacela"
+    "imageDir": "fortaleza-de-cacela",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049780",
@@ -2772,7 +3140,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Fortaleza_de_Juromenha",
     "summary": "fortaleza em Juromenha, Alandroal, Portugal",
     "extract": "A Fortaleza de Juromenha localiza-se na povoação homónima pertencente à União de Freguesias de Alandroal, São Brás dos Matos e Juromenha, no Município de Alandroal, distrito de Évora, em Portugal.\nEntre a Guerra da Restauração e a Guerra Peninsular, sobre o rio Guadiana cuja travessia fechava, foi considerada uma das chaves da fronteira do Alentejo.\nA Fortaleza de Juromenha está classificada desde 1957 como Imóvel de Interesse Público.",
-    "imageDir": "fortaleza-de-juromenha"
+    "imageDir": "fortaleza-de-juromenha",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049827",
@@ -2787,7 +3157,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Segura",
     "summary": "castelo medieval em Segura de que restam algumas estruturas",
     "extract": "O Castelo de Segura ou Fortaleza de Segura localiza-se em Segura, na atual freguesia de Zebreira e Segura, no Município de Idanha-a-Nova, Distrito de Castelo Branco, em Portugal, na margem direita do rio Erges.",
-    "imageDir": "fortaleza-de-segura"
+    "imageDir": "fortaleza-de-segura",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q25419706",
@@ -2802,7 +3174,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_da_Covilh%C3%A3",
     "summary": "Muralha medieval em Covilhã, de que restam vestígios",
     "extract": "O Castelo da Covilhã, por vezes referido como Muralhas da cidade da Covilhã, localiza-se na cidade da Covilhã, em Portugal.",
-    "imageDir": "muralhas-da-cidade-da-covilha"
+    "imageDir": "muralhas-da-cidade-da-covilha",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q10333273",
@@ -2817,7 +3191,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Muralhas_de_Viseu",
     "summary": "muralhas medievais em Viseu",
     "extract": "As Muralhas de Viseu fizeram parte da fortificação da cidade do mesmo nome, localizando-se na freguesia, no município e no Distrito de Viseu, em Portugal.\nTrata-se de muralha quatrocentista com planta ovalada de traçado irregular cujo perímetro é detetável pelos vestígios existentes na malha urbana. Dispondo primitivamente de 7 portas, de que subsistem 2, sendo estas definidas por arco quebrado contendo nichos onde repousavam estátuas dos santos tutelares das mesmas.\nAs Muralhas de Viseu que subsistem estão classificadas como Monumento Nacional desde 1915.",
-    "imageDir": "muralhas-de-viseu"
+    "imageDir": "muralhas-de-viseu",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q10333277",
@@ -2832,7 +3208,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Muralhas_do_Porto",
     "summary": "building in Porto, Porto District, Portugal",
     "extract": "As muralhas do Porto localizam-se na cidade, concelho e distrito do Porto, em Portugal.",
-    "imageDir": "muralhas-do-porto"
+    "imageDir": "muralhas-do-porto",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049805",
@@ -2847,7 +3225,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Nisa",
     "summary": "castelo medieval em Nisa  de que restam alguns troços das antigas muralhas",
     "extract": "O Castelo de Nisa, também referido como Porta de Montalvão, Porta da Vila e restos da muralha da vila de Nisa,  localiza-se na freguesia de Espírito Santo, Nossa Senhora da Graça e São Simão, na vila e no Município de Nisa, no Distrito de Portalegre, no Alentejo, em Portugal.\nO que resta do Castelo de Nisa está classificado como Monumento Nacional desde 1922.",
-    "imageDir": "porta-de-montalvao-porta-da-vila-e-restos-da-muralha-da-vila-de-nisa"
+    "imageDir": "porta-de-montalvao-porta-da-vila-e-restos-da-muralha-da-vila-de-nisa",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q5049751",
@@ -2862,7 +3242,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Castelo_de_Atouguia_da_Baleia",
     "summary": "castelo em Atouguia da Baleia de que restam as muralhas e uma torre",
     "extract": "As ruínas do Castelo da Atouguia da Baleia localizam-se na vila e na freguesia de Atouguia da Baleia, no Município de Peniche, região Oeste portuguesa e província histórica da Estremadura.\nNa foz do rio de São Domingos, a antiga povoação de Tauria (devido às manadas de touros selvagens na região), depois Touguia, foi um dos mais importantes portos do litoral português na Idade Média, tendo recebido diversas Cartas de Foral. Devido ao assoreamento da costa, que ligou a então ilha de Peniche ao continente, perdeu para esta última a função de sede do concelho.\nO que resta do Castelo de Atouguia da Baleia está classificado como Imóvel de Interesse Público desde 2006.",
-    "imageDir": "restos-da-torre-e-muralhas-do-antigo-castelo-de-atouguia-da-baleia"
+    "imageDir": "restos-da-torre-e-muralhas-do-antigo-castelo-de-atouguia-da-baleia",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q124772184",
@@ -2877,7 +3259,9 @@
     "wikipedia": null,
     "summary": null,
     "extract": null,
-    "imageDir": "ruinas-do-castelo-de-bastuco"
+    "imageDir": "ruinas-do-castelo-de-bastuco",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q10383757",
@@ -2892,7 +3276,9 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Torre_de_Vilharigues",
     "summary": "castelo em Vouzela, Portugal",
     "extract": "A Torre de Vilharigues, também referida como Castelo de Vilharigues, Ruínas do Castelo de Vilharigues e Atalaia de Vilharigues, localiza-se em Paços de Vilharigues, no município de Vouzela, no Centro de Portugal.\nErguida em posição dominante sobre um outeiro, na vertente noroeste da serra do Caramulo, é uma das torres medievais remanescentes no município. Do seu topo avistava-se Vouzela e grande parte do vale de Lafões.",
-    "imageDir": "ruinas-do-castelo-de-vilharigues"
+    "imageDir": "ruinas-do-castelo-de-vilharigues",
+    "hours": null,
+    "price": null
   },
   {
     "id": "Q9088922",
@@ -2907,6 +3293,8 @@
     "wikipedia": "https://pt.wikipedia.org/wiki/Torre_de_Redondos",
     "summary": "Torre que integrou o Castelo de Redondos",
     "extract": "A Torre de Redondos, também referida como Castelo de Redondos, localiza-se na povoação e na freguesia de Buarcos, Município de Figueira da Foz, Distrito de Coimbra, em Portugal.\nNo cruzamento da Rua de Santa Cruz com a Rua do Castelo, na realidade trata-se apenas de um cunhal, remanescente de uma antiga torre, integrante do desaparecido Castelo de Redondos.\nEsta estrutura remanescente encontra-se classificada como Imóvel de Interesse Municipal, por Decreto publicado em 6 de Março de 1996.",
-    "imageDir": "torre-de-redondos"
+    "imageDir": "torre-de-redondos",
+    "hours": null,
+    "price": null
   }
 ]

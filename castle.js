@@ -49,32 +49,57 @@ function renderHero(castle) {
   `;
 }
 
-function renderInfoGrid(castle) {
-  const rows = [
-    ["Distrito", castle.district || "Desconhecido"],
-    ["Localização", castle.location || "Desconhecida"],
-    ["Ano de construção", castle.year ? castle.year : "Desconhecido"],
-    ["Coordenadas", `${castle.lat.toFixed(4)}, ${castle.lng.toFixed(4)}`],
-  ];
+function renderFactList(rows) {
   return `
-    <div class="info-grid">
+    <div class="fact-list">
       ${rows
         .map(
           ([lbl, val]) => `
-        <div class="info-card">
-          <div class="lbl">${lbl}</div>
-          <div class="val">${escapeHtml(String(val))}</div>
+        <div class="fact-row">
+          <span class="lbl">${lbl}</span>
+          <span class="val">${escapeHtml(String(val))}</span>
         </div>`
         )
         .join("")}
     </div>
+  `;
+}
+
+function renderInfoSection(castle) {
+  const rows = [
+    ["Distrito", castle.district || "Desconhecido"],
+    ["Localização", castle.location || "Desconhecida"],
+    ["Ano de construção", castle.year ? castle.year : "Desconhecido"],
+  ];
+  return `
+    ${renderFactList(rows)}
+    ${
+      castle.wikipedia
+        ? `<div class="link-row"><a class="wiki-link" href="${castle.wikipedia}" target="_blank" rel="noopener">Ler mais na Wikipédia →</a></div>`
+        : ""
+    }
+  `;
+}
+
+function renderHoursSection(castle) {
+  if (!castle.hours && !castle.price) {
+    return `<div class="fact-empty">Informação não disponível.</div>`;
+  }
+  const rows = [
+    ["Horário", castle.hours || "Desconhecido"],
+    ["Bilhete", castle.price || "Desconhecido"],
+  ];
+  return renderFactList(rows);
+}
+
+function renderLocationSection(castle) {
+  const embedSrc = `https://www.google.com/maps?q=${castle.lat},${castle.lng}&output=embed`;
+  const directionsHref = `https://www.google.com/maps/dir/?api=1&destination=${castle.lat},${castle.lng}`;
+  return `
+    ${renderFactList([["Coordenadas", `${castle.lat.toFixed(4)}, ${castle.lng.toFixed(4)}`]])}
+    <iframe class="map-embed" src="${embedSrc}" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="Mapa de ${escapeHtml(castle.name)}"></iframe>
     <div class="link-row">
-      <a class="wiki-link" href="https://www.google.com/maps/dir/?api=1&destination=${castle.lat},${castle.lng}" target="_blank" rel="noopener">📍 Levar-me até aqui →</a>
-      ${
-        castle.wikipedia
-          ? `<a class="wiki-link" href="${castle.wikipedia}" target="_blank" rel="noopener">📖 Ler mais na Wikipédia →</a>`
-          : ""
-      }
+      <a class="wiki-link" href="${directionsHref}" target="_blank" rel="noopener">Levar-me até aqui →</a>
     </div>
   `;
 }
@@ -152,7 +177,17 @@ async function render(castle) {
 
     <div class="detail-section">
       <h2>Informação</h2>
-      ${renderInfoGrid(castle)}
+      ${renderInfoSection(castle)}
+    </div>
+
+    <div class="detail-section">
+      <h2>Horário &amp; Bilhete</h2>
+      ${renderHoursSection(castle)}
+    </div>
+
+    <div class="detail-section">
+      <h2>Localização</h2>
+      ${renderLocationSection(castle)}
     </div>
 
     <div class="detail-section">

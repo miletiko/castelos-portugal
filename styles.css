@@ -15,7 +15,7 @@
   --visited: #2f6b46;
   --visited-soft: #dfe8dc;
   --shadow-sm: 0 1px 3px rgba(33, 29, 22, 0.14);
-  --radius: 2px;
+  --radius: 0;
   font-synthesis: none;
 
   /* dark palette values, only switched on below (system preference or forced via data-theme) */
@@ -69,6 +69,11 @@ body {
 a { color: inherit; }
 ::selection { background: var(--accent-soft); }
 
+:focus-visible {
+  outline: 1px solid var(--accent);
+  outline-offset: 2px;
+}
+
 /* ---------- Header ---------- */
 
 .site-header {
@@ -87,7 +92,7 @@ a { color: inherit; }
 .brand {
   display: flex;
   align-items: center;
-  gap: 0.7rem;
+  gap: 0.6rem;
   font-family: var(--font-display);
   font-size: 1.15rem;
   font-weight: 700;
@@ -97,15 +102,8 @@ a { color: inherit; }
 }
 
 .brand .crest {
-  font-size: 1.35rem;
+  font-size: 1.4rem;
   line-height: 1;
-  display: grid;
-  place-items: center;
-  width: 38px;
-  height: 38px;
-  border-radius: var(--radius);
-  background: var(--surface-2);
-  border: 1px solid var(--border);
 }
 
 .brand small {
@@ -122,50 +120,51 @@ a { color: inherit; }
 .header-right {
   display: flex;
   align-items: center;
-  gap: 0.9rem;
+  gap: 1.1rem;
 }
 
 .header-stats {
   display: flex;
   align-items: center;
-  gap: 0.6rem;
+  gap: 0.9rem;
   font-family: var(--font-body);
 }
 
 .header-controls {
   display: flex;
   align-items: center;
-  gap: 0.5rem;
+  gap: 0.7rem;
 }
 
 .icon-btn {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 34px;
-  height: 34px;
-  border-radius: var(--radius);
-  border: 1px solid var(--border);
-  background: var(--surface);
-  color: var(--text);
+  width: 30px;
+  height: 30px;
+  border: none;
+  background: none;
+  color: var(--text-muted);
   font-size: 1rem;
   line-height: 1;
   cursor: pointer;
-  transition: background 0.15s, border-color 0.15s;
+  transition: color 0.15s;
 }
 
 .icon-btn:hover {
-  border-color: var(--accent);
-  background: var(--accent-soft);
+  color: var(--accent);
 }
 
 .header-stat {
   text-align: right;
   line-height: 1.1;
-  padding: 0.35rem 0.85rem;
-  border-radius: var(--radius);
-  background: var(--surface-2);
-  border: 1px solid var(--border);
+  padding-left: 0.9rem;
+  border-left: 1px solid var(--border);
+}
+
+.header-stat:first-child {
+  padding-left: 0;
+  border-left: none;
 }
 
 .header-stat .num {
@@ -190,18 +189,14 @@ a { color: inherit; }
 
 #app {
   display: flex;
-  gap: 14px;
+  gap: 0;
   height: calc(100vh - 68px);
-  padding: 14px;
 }
 
 #map {
   flex: 1;
   height: 100%;
   background: var(--surface-2);
-  border-radius: var(--radius);
-  overflow: hidden;
-  border: 1px solid var(--border);
 }
 
 .leaflet-container {
@@ -212,16 +207,15 @@ a { color: inherit; }
 #sidebar {
   width: 360px;
   flex-shrink: 0;
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
+  background: var(--bg);
+  border-left: 1px solid var(--border);
   display: flex;
   flex-direction: column;
   overflow: hidden;
 }
 
 .sidebar-controls {
-  padding: 1.1rem 1.1rem 0.8rem;
+  padding: 1.1rem 1.1rem 0.9rem;
   border-bottom: 1px solid var(--border);
   font-family: var(--font-body);
 }
@@ -230,10 +224,10 @@ a { color: inherit; }
 
 .search-box input {
   width: 100%;
-  padding: 0.65rem 1rem;
-  border-radius: var(--radius);
-  border: 1px solid var(--border);
-  background: var(--surface);
+  padding: 0.5rem 0.1rem;
+  border: none;
+  border-bottom: 1px solid var(--border);
+  background: transparent;
   color: var(--text);
   font-size: 0.9rem;
   font-family: inherit;
@@ -241,82 +235,85 @@ a { color: inherit; }
 
 .search-box input:focus {
   outline: none;
-  box-shadow: 0 0 0 3px var(--accent-soft);
-  border-color: var(--accent);
+  border-bottom-color: var(--accent);
 }
 
 .filter-row {
   display: flex;
-  gap: 0.5rem;
-  margin-top: 0.7rem;
+  gap: 1rem;
+  margin-top: 0.8rem;
+  align-items: center;
 }
 
 .filter-row select {
   flex: 1;
-  padding: 0.45rem 0.6rem;
-  border-radius: var(--radius);
-  border: 1px solid var(--border);
-  background: var(--surface);
+  padding: 0.35rem 0;
+  border: none;
+  border-bottom: 1px solid var(--border);
+  background: transparent;
   color: var(--text);
   font-size: 0.8rem;
   font-family: inherit;
   font-weight: 500;
 }
 
+.filter-row select:focus {
+  outline: none;
+  border-bottom-color: var(--accent);
+}
+
 .toggle-chip {
   display: inline-flex;
   align-items: center;
   gap: 0.35rem;
-  padding: 0.42rem 0.75rem;
-  border-radius: var(--radius);
-  border: 1px solid var(--border);
-  background: var(--surface);
+  padding: 0.35rem 0;
+  border: none;
+  border-bottom: 1px solid var(--border);
+  background: none;
   font-size: 0.76rem;
   font-weight: 600;
   cursor: pointer;
   user-select: none;
   white-space: nowrap;
   color: var(--text-muted);
-  transition: background 0.15s, color 0.15s, border-color 0.15s;
+  transition: color 0.15s, border-color 0.15s;
 }
 
 .toggle-chip.active {
-  background: var(--visited-soft);
-  border-color: var(--visited);
+  border-bottom-color: var(--visited);
   color: var(--visited);
 }
 
 #castle-list {
   flex: 1;
   overflow-y: auto;
-  padding: 0.5rem 0.7rem 1rem;
+  padding: 0 1.1rem;
   font-family: var(--font-body);
 }
 
 .list-item {
   display: flex;
   gap: 0.7rem;
-  padding: 0.55rem 0.6rem;
-  border-radius: var(--radius);
+  padding: 0.65rem 0;
   cursor: pointer;
   align-items: center;
-  border: 1px solid transparent;
-  transition: background 0.12s, transform 0.12s;
+  border-bottom: 1px solid var(--border);
+  transition: transform 0.12s;
 }
 
 .list-item:hover {
-  background: var(--surface-2);
-  border-color: var(--border);
   transform: translateX(2px);
 }
 
+.list-item:hover .name {
+  color: var(--accent);
+}
+
 .list-item .thumb {
-  width: 44px;
-  height: 44px;
-  border-radius: var(--radius);
+  width: 40px;
+  height: 40px;
   background: var(--surface-2) center/cover no-repeat;
   flex-shrink: 0;
-  border: 1px solid var(--border);
 }
 
 .list-item .info { min-width: 0; flex: 1; }
@@ -327,6 +324,7 @@ a { color: inherit; }
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
+  transition: color 0.12s;
 }
 
 .list-item .meta {
@@ -357,12 +355,11 @@ a { color: inherit; }
 
 .castle-marker { display: block; }
 
+/* Floating over the map, so it keeps a minimal frame (border+surface) to stay legible over unpredictable tile colors. */
 .castle-tooltip {
   background: var(--surface);
   color: var(--text);
   border: 1px solid var(--border);
-  border-radius: var(--radius);
-  box-shadow: var(--shadow-sm);
   padding: 0.65rem 0.9rem;
   font-family: var(--font-body);
 }
@@ -385,10 +382,9 @@ a { color: inherit; }
   font-weight: 700;
 }
 
+/* Same reasoning as the tooltip: floats directly over map tiles. */
 .leaflet-control-zoom {
   border: 1px solid var(--border) !important;
-  border-radius: var(--radius) !important;
-  overflow: hidden;
   box-shadow: none !important;
 }
 .leaflet-control-zoom a {
@@ -398,7 +394,6 @@ a { color: inherit; }
 }
 .leaflet-control-attribution {
   background: var(--surface) !important;
-  border-radius: var(--radius) 0 0 0;
   color: var(--text-muted) !important;
 }
 .leaflet-control-attribution a { color: var(--accent) !important; }
@@ -427,12 +422,7 @@ a { color: inherit; }
 .back-link:hover { color: var(--accent); }
 
 .hero {
-  border-radius: var(--radius);
-  overflow: hidden;
-  background: var(--surface-2);
   margin-bottom: 1.6rem;
-  position: relative;
-  border: 1px solid var(--border);
 }
 
 .hero img {
@@ -450,7 +440,7 @@ a { color: inherit; }
   justify-content: center;
   font-size: 3.5rem;
   color: var(--accent);
-  opacity: 0.4;
+  opacity: 0.35;
   background: var(--surface-2);
 }
 
@@ -474,36 +464,26 @@ a { color: inherit; }
 
 .badges {
   display: flex;
-  gap: 0.5rem;
   flex-wrap: wrap;
   margin: 0.6rem 0 1.4rem;
   font-family: var(--font-body);
-}
-
-.badge {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.35rem;
-  padding: 0.32rem 0.8rem;
-  border-radius: var(--radius);
-  background: var(--surface-2);
-  border: 1px solid var(--border);
-  font-size: 0.8rem;
-  font-weight: 600;
+  font-size: 0.85rem;
   color: var(--text-muted);
+  font-weight: 600;
 }
 
-.badge.year { color: var(--accent); border-color: var(--accent-soft); background: var(--accent-soft); }
+.badge { color: inherit; }
+.badge:not(:last-child)::after { content: " · "; color: var(--border); }
+.badge.year { color: var(--accent); }
 
 .visit-btn {
   font-family: var(--font-body);
   display: inline-flex;
   align-items: center;
   gap: 0.5rem;
-  padding: 0.65rem 1.4rem;
-  border-radius: var(--radius);
+  padding: 0.6rem 1.2rem;
   border: 1px solid var(--visited);
-  background: var(--surface);
+  background: none;
   color: var(--visited);
   font-weight: 700;
   font-size: 0.9rem;
@@ -511,6 +491,7 @@ a { color: inherit; }
   transition: background 0.15s, color 0.15s, transform 0.1s;
 }
 
+/* Deliberate exception: a real toggle (checkbox-like), needs strong on/off contrast. */
 .visit-btn.active {
   background: var(--visited);
   color: #fff;
@@ -526,7 +507,7 @@ a { color: inherit; }
   color: var(--text);
 }
 
-.detail-section { margin-top: 2.2rem; }
+.detail-section { margin-top: 2.4rem; }
 
 .detail-section h2 {
   font-size: 0.82rem;
@@ -537,41 +518,56 @@ a { color: inherit; }
   font-weight: 700;
   border-bottom: 1px solid var(--border);
   padding-bottom: 0.6rem;
-  margin-bottom: 1rem;
+  margin-bottom: 0.2rem;
 }
 
-.info-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
-  gap: 0.9rem;
+.fact-list {
   font-family: var(--font-body);
 }
 
-.info-card {
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
-  padding: 0.9rem 1.05rem;
+.fact-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 1rem;
+  padding: 0.75rem 0;
+  border-bottom: 1px solid var(--border);
 }
 
-.info-card .lbl {
-  font-size: 0.68rem;
+.fact-row .lbl {
+  font-size: 0.72rem;
   text-transform: uppercase;
   letter-spacing: 0.07em;
   color: var(--text-muted);
   font-weight: 600;
-  margin-bottom: 0.3rem;
+  white-space: nowrap;
 }
 
-.info-card .val {
+.fact-row .val {
   font-family: var(--font-display);
   font-size: 1rem;
   font-weight: 700;
+  text-align: right;
+}
+
+.fact-empty {
+  padding: 0.75rem 0;
+  color: var(--text-muted);
+  font-size: 0.9rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.map-embed {
+  width: 100%;
+  height: 280px;
+  border: 1px solid var(--border);
+  display: block;
+  margin-top: 1rem;
 }
 
 .link-row {
   display: flex;
-  gap: 0.6rem;
+  gap: 1.2rem;
   flex-wrap: wrap;
   margin-top: 0.9rem;
 }
@@ -579,19 +575,17 @@ a { color: inherit; }
 .wiki-link {
   display: inline-flex;
   align-items: center;
-  gap: 0.4rem;
+  gap: 0.35rem;
   font-family: var(--font-body);
   font-size: 0.9rem;
   color: var(--accent);
-  text-decoration: none;
+  text-decoration: underline;
+  text-decoration-color: transparent;
   font-weight: 700;
-  padding: 0.55rem 1rem;
-  border-radius: var(--radius);
-  background: var(--accent-soft);
-  transition: transform 0.12s;
+  transition: text-decoration-color 0.12s;
 }
 
-.wiki-link:hover { transform: translateY(-1px); }
+.wiki-link:hover { text-decoration-color: var(--accent); }
 
 /* photo memories */
 
@@ -605,9 +599,7 @@ a { color: inherit; }
 .photo-tile {
   position: relative;
   aspect-ratio: 1;
-  border-radius: var(--radius);
   overflow: hidden;
-  border: 1px solid var(--border);
   background: var(--surface-2);
 }
 
@@ -622,13 +614,13 @@ a { color: inherit; }
 
 .photo-tile:hover img { transform: scale(1.06); }
 
+/* Deliberate exception: overlays arbitrary photo content, needs contrast to stay visible. */
 .photo-tile .del-btn {
   position: absolute;
   top: 6px;
   right: 6px;
   width: 24px;
   height: 24px;
-  border-radius: var(--radius);
   border: none;
   background: rgba(15, 15, 20, 0.6);
   color: #fff;
@@ -644,8 +636,7 @@ a { color: inherit; }
 
 .add-photo-tile {
   aspect-ratio: 1;
-  border-radius: var(--radius);
-  border: 2px dashed var(--border);
+  border: 1px dashed var(--border);
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -656,7 +647,6 @@ a { color: inherit; }
   font-size: 0.78rem;
   font-weight: 600;
   text-align: center;
-  background: var(--surface-2);
   transition: border-color 0.15s, color 0.15s;
 }
 
@@ -695,8 +685,6 @@ a { color: inherit; }
 #lightbox img {
   max-width: 100%;
   max-height: 100%;
-  border-radius: var(--radius);
-  box-shadow: var(--shadow-sm);
 }
 
 #lightbox .close-x {
@@ -711,7 +699,7 @@ a { color: inherit; }
   line-height: 1;
 }
 
-/* toast */
+/* toast: deliberate exception (filled/inverted) — floats over arbitrary page content with no anchor. */
 
 #toast {
   position: fixed;
@@ -721,7 +709,6 @@ a { color: inherit; }
   background: var(--text);
   color: var(--bg);
   padding: 0.65rem 1.3rem;
-  border-radius: var(--radius);
   font-family: var(--font-body);
   font-weight: 600;
   font-size: 0.85rem;
@@ -729,7 +716,6 @@ a { color: inherit; }
   pointer-events: none;
   transition: opacity 0.2s, transform 0.2s;
   z-index: 3000;
-  box-shadow: var(--shadow-sm);
 }
 
 #toast.show {
@@ -740,9 +726,9 @@ a { color: inherit; }
 /* responsive */
 
 @media (max-width: 860px) {
-  #app { flex-direction: column; height: auto; padding: 10px; gap: 10px; }
-  #map { flex: none; height: 52vh; }
-  #sidebar { flex: none; width: 100%; height: 45vh; }
-  .header-stats { gap: 0.5rem; }
+  #app { flex-direction: column; height: auto; }
+  #map { height: 52vh; }
+  #sidebar { width: 100%; height: 45vh; border-left: none; border-top: 1px solid var(--border); }
+  .header-stats { gap: 0.6rem; }
   .detail-title-row h1 { font-size: 1.6rem; }
 }
